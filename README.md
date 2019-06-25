@@ -6,6 +6,10 @@ Vocabularios controlados para la Red Nacional de Información en Ciencia, Tecnol
 
 Versión 0.1 (borrador) - [SKOS-XML](ocde_sectorInstitucional.xml) \| [HTML](https://concytec-pe.github.io/vocabularios/ocde_sectorInstitucional.html)
 
+### Tipos de instituciones de enseñanza superior (SUNEDU)
+
+Versión 0.1 (borrador) - [SKOS-XML](sunedu_tipoInstitucion.xml) \| [HTML](https://concytec-pe.github.io/vocabularios/sunedu_tipoInstitucion.html)
+
 ### Grados académicos y títulos profesionales (RENATI)
 
 Versión 0.1 (borrador) - [SKOS-XML](renati_level.xml) \| [HTML](https://concytec-pe.github.io/vocabularios/renati_level.html)
