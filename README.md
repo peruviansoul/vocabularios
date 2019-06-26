@@ -2,6 +2,10 @@
 
 Vocabularios controlados para la Red Nacional de Información en Ciencia, Tecnología e Innovación Tecnológica ([\#PerúCRIS](http://perucris.concytec.gob.pe)) y para la Red Nacional de Repositorios Digitales de Ciencia, Tecnología e Innovación de Acceso Abierto ([RENARE](http://portal.concytec.gob.pe/index.php/informacion-cti/alicia/red-nacional-de-repositorios-digitales-de-ciencia-tecnologia-e-innovacion-de-acceso-abierto-renare)). 
 
+### Campos de la Investigación y el Desarrollo según Manual de Frascati (OCDE)
+
+Versión 0.1 (borrador) - [SKOS-XML](ocde_ford.xml) \| [HTML](https://concytec-pe.github.io/vocabularios/ocde_ford.html)
+
 ### Sectores institucionales según Manual de Frascati (OCDE)
 
 Versión 0.1 (borrador) - [SKOS-XML](ocde_sectorInstitucional.xml) \| [HTML](https://concytec-pe.github.io/vocabularios/ocde_sectorInstitucional.html)
