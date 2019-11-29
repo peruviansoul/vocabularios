@@ -35,14 +35,6 @@
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.00.00">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#1.00.00_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.00.00_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.00.00">
@@ -90,14 +82,6 @@
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.01.00">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#1.01.00_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.01.00_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -147,14 +131,6 @@
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.01.01">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#1.01.01_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.01.01_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.01.01">
@@ -202,14 +178,6 @@
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.01.02">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#1.01.02_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.01.02_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -259,14 +227,6 @@
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.01.03">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#1.01.03_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.01.03_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.01.03">
@@ -314,14 +274,6 @@
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.02.00">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#1.02.00_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.02.00_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -371,14 +323,6 @@
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.02.01">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#1.02.01_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.02.01_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.02.01">
@@ -426,14 +370,6 @@
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.02.02">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#1.02.02_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.02.02_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -483,14 +419,6 @@
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.02.03">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#1.02.03_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.02.03_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.02.03">
@@ -538,14 +466,6 @@
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.03.00">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#1.03.00_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.03.00_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -595,14 +515,6 @@
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.03.01">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#1.03.01_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.03.01_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.03.01">
@@ -650,14 +562,6 @@
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.03.02">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#1.03.02_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.03.02_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -707,14 +611,6 @@
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.03.03">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#1.03.03_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.03.03_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.03.03">
@@ -762,14 +658,6 @@
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.03.04">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#1.03.04_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.03.04_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -819,14 +707,6 @@
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.03.05">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#1.03.05_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.03.05_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.03.05">
@@ -874,14 +754,6 @@
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.03.06">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#1.03.06_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.03.06_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -931,14 +803,6 @@
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.03.07">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#1.03.07_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.03.07_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.03.07">
@@ -986,14 +850,6 @@
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.04.00">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#1.04.00_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.04.00_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -1043,14 +899,6 @@
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.04.01">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#1.04.01_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.04.01_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.04.01">
@@ -1098,14 +946,6 @@
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.04.02">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#1.04.02_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.04.02_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -1155,14 +995,6 @@
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.04.03">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#1.04.03_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.04.03_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.04.03">
@@ -1210,14 +1042,6 @@
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.04.04">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#1.04.04_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.04.04_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -1267,14 +1091,6 @@
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.04.05">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#1.04.05_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.04.05_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.04.05">
@@ -1322,14 +1138,6 @@
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.05.00">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#1.05.00_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.05.00_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -1379,14 +1187,6 @@
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.05.01">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#1.05.01_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.05.01_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.05.01">
@@ -1434,14 +1234,6 @@
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.05.02">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#1.05.02_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.05.02_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -1491,14 +1283,6 @@
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.05.03">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#1.05.03_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.05.03_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.05.03">
@@ -1546,14 +1330,6 @@
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.05.04">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#1.05.04_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.05.04_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -1603,14 +1379,6 @@
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.05.05">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#1.05.05_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.05.05_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.05.05">
@@ -1658,14 +1426,6 @@
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.05.06">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#1.05.06_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.05.06_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -1715,14 +1475,6 @@
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.05.07">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#1.05.07_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.05.07_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.05.07">
@@ -1770,14 +1522,6 @@
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.05.08">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#1.05.08_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.05.08_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -1827,14 +1571,6 @@
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.05.09">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#1.05.09_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.05.09_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.05.09">
@@ -1882,14 +1618,6 @@
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.05.10">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#1.05.10_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.05.10_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -1939,14 +1667,6 @@
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.05.11">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#1.05.11_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.05.11_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.05.11">
@@ -1994,14 +1714,6 @@
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.06.00">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#1.06.00_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.06.00_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -2051,14 +1763,6 @@
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.06.01">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#1.06.01_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.06.01_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.06.01">
@@ -2106,14 +1810,6 @@
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.06.02">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#1.06.02_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.06.02_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -2163,14 +1859,6 @@
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.06.03">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#1.06.03_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.06.03_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.06.03">
@@ -2218,14 +1906,6 @@
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.06.04">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#1.06.04_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.06.04_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -2275,14 +1955,6 @@
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.06.05">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#1.06.05_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.06.05_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.06.05">
@@ -2330,14 +2002,6 @@
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.06.06">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#1.06.06_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.06.06_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -2387,14 +2051,6 @@
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.06.07">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#1.06.07_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.06.07_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.06.07">
@@ -2442,14 +2098,6 @@
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.06.08">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#1.06.08_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.06.08_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -2499,14 +2147,6 @@
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.06.09">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#1.06.09_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.06.09_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.06.09">
@@ -2554,14 +2194,6 @@
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.06.10">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#1.06.10_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.06.10_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -2611,14 +2243,6 @@
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.06.11">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#1.06.11_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.06.11_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.06.11">
@@ -2666,14 +2290,6 @@
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.06.12">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#1.06.12_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.06.12_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -2723,14 +2339,6 @@
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.06.13">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#1.06.13_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.06.13_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.06.13">
@@ -2778,14 +2386,6 @@
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.06.14">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#1.06.14_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.06.14_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -2835,14 +2435,6 @@
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.06.15">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#1.06.15_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.06.15_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.06.15">
@@ -2890,14 +2482,6 @@
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.06.16">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#1.06.16_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.06.16_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -2947,14 +2531,6 @@
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.07.00">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#1.07.00_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.07.00_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.07.00">
@@ -3002,14 +2578,6 @@
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.00.00">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#2.00.00_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.00.00_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -3059,14 +2627,6 @@
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.01.00">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#2.01.00_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.01.00_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.01.00">
@@ -3115,14 +2675,6 @@
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.01.01">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#2.01.01_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.01.01_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.01.01">
@@ -3170,14 +2722,6 @@
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.01.02">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#2.01.02_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.01.02_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -3228,14 +2772,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural -->
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.01.03">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#2.01.03_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.01.03_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.01.03">
@@ -3285,14 +2821,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.01.04">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#2.01.04_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.01.04_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.01.04">
@@ -3340,14 +2868,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.02.00">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#2.02.00_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.02.00_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -3397,14 +2917,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.02.01">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#2.02.01_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.02.01_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.02.01">
@@ -3452,14 +2964,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.02.02">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#2.02.02_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.02.02_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -3509,14 +3013,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.02.03">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#2.02.03_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.02.03_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.02.03">
@@ -3564,14 +3060,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.02.04">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#2.02.04_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.02.04_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -3621,14 +3109,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.02.05">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#2.02.05_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.02.05_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.02.05">
@@ -3676,14 +3156,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.02.06">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#2.02.06_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.02.06_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -3733,14 +3205,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.03.00">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#2.03.00_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.03.00_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.03.00">
@@ -3788,14 +3252,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.03.01">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#2.03.01_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.03.01_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -3845,14 +3301,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.03.02">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#2.03.02_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.03.02_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.03.02">
@@ -3900,14 +3348,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.03.03">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#2.03.03_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.03.03_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -3957,14 +3397,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.03.04">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#2.03.04_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.03.04_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.03.04">
@@ -4012,14 +3444,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.03.05">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#2.03.05_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.03.05_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -4069,14 +3493,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.03.06">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#2.03.06_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.03.06_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.03.06">
@@ -4124,14 +3540,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.04.00">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#2.04.00_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.04.00_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -4181,14 +3589,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.04.01">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#2.04.01_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.04.01_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.04.01">
@@ -4236,14 +3636,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.04.02">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#2.04.02_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.04.02_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -4293,14 +3685,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.05.00">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#2.05.00_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.05.00_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.05.00">
@@ -4348,14 +3732,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.05.01">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#2.05.01_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.05.01_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -4405,14 +3781,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.05.02">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#2.05.02_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.05.02_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.05.02">
@@ -4460,14 +3828,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.05.03">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#2.05.03_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.05.03_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -4517,14 +3877,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.05.04">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#2.05.04_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.05.04_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.05.04">
@@ -4572,14 +3924,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.05.05">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#2.05.05_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.05.05_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -4629,14 +3973,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.05.06">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#2.05.06_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.05.06_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.05.06">
@@ -4684,14 +4020,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.05.07">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#2.05.07_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.05.07_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -4741,14 +4069,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.06.00">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#2.06.00_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.06.00_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.06.00">
@@ -4796,14 +4116,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.06.01">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#2.06.01_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.06.01_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -4853,14 +4165,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.06.02">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#2.06.02_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.06.02_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.06.02">
@@ -4908,14 +4212,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.07.00">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#2.07.00_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.07.00_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -4965,14 +4261,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.07.01">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#2.07.01_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.07.01_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.07.01">
@@ -5020,14 +4308,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.07.02">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#2.07.02_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.07.02_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -5077,14 +4357,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.07.03">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#2.07.03_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.07.03_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.07.03">
@@ -5132,14 +4404,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.07.04">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#2.07.04_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.07.04_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -5189,14 +4453,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.07.05">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#2.07.05_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.07.05_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.07.05">
@@ -5244,14 +4500,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.07.06">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#2.07.06_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.07.06_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -5301,14 +4549,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.08.00">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#2.08.00_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.08.00_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.08.00">
@@ -5356,14 +4596,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.08.01">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#2.08.01_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.08.01_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -5413,14 +4645,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.08.02">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#2.08.02_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.08.02_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.08.02">
@@ -5468,14 +4692,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.08.03">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#2.08.03_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.08.03_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -5525,14 +4741,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.09.00">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#2.09.00_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.09.00_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.09.00">
@@ -5580,14 +4788,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.09.01">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#2.09.01_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.09.01_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -5637,14 +4837,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.09.02">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#2.09.02_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.09.02_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.09.02">
@@ -5692,14 +4884,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.09.03">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#2.09.03_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.09.03_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -5749,14 +4933,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.10.00">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#2.10.00_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.10.00_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.10.00">
@@ -5804,14 +4980,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.10.01">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#2.10.01_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.10.01_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -5861,14 +5029,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.10.02">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#2.10.02_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.10.02_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.10.02">
@@ -5916,14 +5076,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.11.00">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#2.11.00_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.11.00_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -5973,14 +5125,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.11.01">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#2.11.01_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.11.01_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.11.01">
@@ -6028,14 +5172,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.11.02">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#2.11.02_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.11.02_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -6085,14 +5221,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.00.00">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#3.00.00_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.00.00_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.00.00">
@@ -6140,14 +5268,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.01.00">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#3.01.00_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.01.00_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -6197,14 +5317,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.01.01">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#3.01.01_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.01.01_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.01.01">
@@ -6252,14 +5364,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.01.02">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#3.01.02_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.01.02_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -6309,14 +5413,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.01.03">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#3.01.03_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.01.03_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.01.03">
@@ -6364,14 +5460,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.01.04">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#3.01.04_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.01.04_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -6421,14 +5509,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.01.05">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#3.01.05_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.01.05_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.01.05">
@@ -6476,14 +5556,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.01.06">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#3.01.06_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.01.06_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -6533,14 +5605,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.01.07">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#3.01.07_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.01.07_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.01.07">
@@ -6588,14 +5652,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.01.08">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#3.01.08_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.01.08_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -6645,14 +5701,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.01.09">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#3.01.09_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.01.09_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.01.09">
@@ -6700,14 +5748,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.02.00">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#3.02.00_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.02.00_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -6757,14 +5797,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.02.01">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#3.02.01_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.02.01_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.02.01">
@@ -6812,14 +5844,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.02.02">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#3.02.02_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.02.02_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -6869,14 +5893,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.02.03">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#3.02.03_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.02.03_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.02.03">
@@ -6924,14 +5940,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.02.04">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#3.02.04_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.02.04_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -6981,14 +5989,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.02.05">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#3.02.05_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.02.05_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.02.05">
@@ -7036,14 +6036,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.02.06">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#3.02.06_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.02.06_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -7093,14 +6085,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.02.07">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#3.02.07_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.02.07_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.02.07">
@@ -7148,14 +6132,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.02.08">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#3.02.08_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.02.08_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -7205,14 +6181,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.02.09">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#3.02.09_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.02.09_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.02.09">
@@ -7260,14 +6228,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.02.10">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#3.02.10_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.02.10_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -7317,14 +6277,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.02.11">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#3.02.11_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.02.11_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.02.11">
@@ -7372,14 +6324,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.02.12">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#3.02.12_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.02.12_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -7429,14 +6373,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.02.13">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#3.02.13_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.02.13_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.02.13">
@@ -7484,14 +6420,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.02.14">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#3.02.14_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.02.14_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -7541,14 +6469,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.02.15">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#3.02.15_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.02.15_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.02.15">
@@ -7596,14 +6516,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.02.16">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#3.02.16_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.02.16_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -7653,14 +6565,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.02.17">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#3.02.17_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.02.17_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.02.17">
@@ -7708,14 +6612,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.02.18">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#3.02.18_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.02.18_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -7765,14 +6661,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.02.19">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#3.02.19_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.02.19_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.02.19">
@@ -7820,14 +6708,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.02.20">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#3.02.20_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.02.20_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -7877,14 +6757,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.02.21">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#3.02.21_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.02.21_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.02.21">
@@ -7932,14 +6804,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.02.22">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#3.02.22_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.02.22_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -7989,14 +6853,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.02.23">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#3.02.23_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.02.23_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.02.23">
@@ -8044,14 +6900,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.02.24">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#3.02.24_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.02.24_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -8101,14 +6949,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.02.25">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#3.02.25_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.02.25_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.02.25">
@@ -8156,14 +6996,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.02.26">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#3.02.26_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.02.26_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -8213,14 +7045,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.02.27">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#3.02.27_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.02.27_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.02.27">
@@ -8268,14 +7092,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.02.28">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#3.02.28_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.02.28_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -8325,14 +7141,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.02.29">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#3.02.29_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.02.29_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.02.29">
@@ -8380,14 +7188,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.03.00">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#3.03.00_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.03.00_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -8437,14 +7237,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.03.01">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#3.03.01_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.03.01_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.03.01">
@@ -8492,14 +7284,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.03.02">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#3.03.02_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.03.02_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -8549,14 +7333,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.03.03">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#3.03.03_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.03.03_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.03.03">
@@ -8604,14 +7380,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.03.04">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#3.03.04_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.03.04_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -8661,14 +7429,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.03.05">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#3.03.05_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.03.05_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.03.05">
@@ -8716,14 +7476,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.03.06">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#3.03.06_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.03.06_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -8773,14 +7525,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.03.07">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#3.03.07_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.03.07_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.03.07">
@@ -8828,14 +7572,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.03.08">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#3.03.08_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.03.08_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -8885,14 +7621,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.03.09">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#3.03.09_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.03.09_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.03.09">
@@ -8940,14 +7668,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.03.10">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#3.03.10_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.03.10_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -8997,14 +7717,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.03.11">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#3.03.11_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.03.11_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.03.11">
@@ -9052,14 +7764,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.03.12">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#3.03.12_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.03.12_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -9109,14 +7813,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.03.13">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#3.03.13_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.03.13_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.03.13">
@@ -9164,14 +7860,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.03.14">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#3.03.14_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.03.14_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -9221,14 +7909,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.04.00">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#3.04.00_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.04.00_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.04.00">
@@ -9276,14 +7956,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.04.01">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#3.04.01_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.04.01_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -9333,14 +8005,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.04.02">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#3.04.02_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.04.02_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.04.02">
@@ -9388,14 +8052,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.04.03">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#3.04.03_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.04.03_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -9445,14 +8101,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.04.04">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#3.04.04_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.04.04_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.04.04">
@@ -9500,14 +8148,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.04.05">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#3.04.05_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.04.05_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -9557,14 +8197,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.05.00">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#3.05.00_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.05.00_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.05.00">
@@ -9612,14 +8244,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.05.01">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#3.05.01_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.05.01_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -9669,14 +8293,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.05.02">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#3.05.02_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.05.02_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.05.02">
@@ -9724,14 +8340,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#4.00.00">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#4.00.00_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#4.00.00_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -9781,14 +8389,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#4.01.00">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#4.01.00_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#4.01.00_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#4.01.00">
@@ -9836,14 +8436,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#4.01.01">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#4.01.01_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#4.01.01_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -9893,14 +8485,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#4.01.02">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#4.01.02_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#4.01.02_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#4.01.02">
@@ -9948,14 +8532,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#4.01.03">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#4.01.03_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#4.01.03_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -10005,14 +8581,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#4.01.04">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#4.01.04_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#4.01.04_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#4.01.04">
@@ -10060,14 +8628,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#4.01.05">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#4.01.05_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#4.01.05_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -10117,14 +8677,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#4.01.06">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#4.01.06_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#4.01.06_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#4.01.06">
@@ -10172,14 +8724,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#4.02.00">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#4.02.00_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#4.02.00_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -10229,14 +8773,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#4.02.01">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#4.02.01_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#4.02.01_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#4.02.01">
@@ -10284,14 +8820,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#4.02.02">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#4.02.02_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#4.02.02_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -10341,14 +8869,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#4.02.03">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#4.02.03_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#4.02.03_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#4.02.03">
@@ -10396,14 +8916,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#4.03.00">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#4.03.00_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#4.03.00_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -10453,14 +8965,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#4.03.01">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#4.03.01_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#4.03.01_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#4.03.01">
@@ -10508,14 +9012,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#4.04.00">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#4.04.00_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#4.04.00_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -10565,14 +9061,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#4.04.01">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#4.04.01_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#4.04.01_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#4.04.01">
@@ -10620,14 +9108,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#4.04.02">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#4.04.02_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#4.04.02_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -10677,14 +9157,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#4.04.03">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#4.04.03_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#4.04.03_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#4.04.03">
@@ -10732,14 +9204,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#4.05.00">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#4.05.00_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#4.05.00_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -10789,14 +9253,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.00.00">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#5.00.00_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.00.00_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.00.00">
@@ -10844,14 +9300,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.01.00">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#5.01.00_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.01.00_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -10901,14 +9349,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.01.01">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#5.01.01_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.01.01_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.01.01">
@@ -10956,14 +9396,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.01.02">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#5.01.02_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.01.02_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -11013,14 +9445,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.02.00">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#5.02.00_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.02.00_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.02.00">
@@ -11068,14 +9492,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.02.01">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#5.02.01_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.02.01_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -11125,14 +9541,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.02.02">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#5.02.02_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.02.02_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.02.02">
@@ -11180,14 +9588,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.02.03">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#5.02.03_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.02.03_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -11237,14 +9637,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.03.00">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#5.03.00_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.03.00_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.03.00">
@@ -11292,14 +9684,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.03.01">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#5.03.01_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.03.01_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -11349,14 +9733,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.03.02">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#5.03.02_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.03.02_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.03.02">
@@ -11404,14 +9780,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.04.00">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#5.04.00_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.04.00_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -11461,14 +9829,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.04.01">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#5.04.01_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.04.01_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.04.01">
@@ -11516,14 +9876,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.04.02">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#5.04.02_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.04.02_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -11573,14 +9925,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.04.03">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#5.04.03_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.04.03_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.04.03">
@@ -11628,14 +9972,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.04.04">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#5.04.04_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.04.04_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -11685,14 +10021,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.05.00">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#5.05.00_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.05.00_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.05.00">
@@ -11740,14 +10068,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.05.01">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#5.05.01_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.05.01_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -11797,14 +10117,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.06.00">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#5.06.00_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.06.00_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.06.00">
@@ -11852,14 +10164,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.06.01">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#5.06.01_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.06.01_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -11909,14 +10213,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.06.02">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#5.06.02_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.06.02_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.06.02">
@@ -11964,14 +10260,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.06.03">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#5.06.03_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.06.03_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -12021,14 +10309,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.07.00">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#5.07.00_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.07.00_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.07.00">
@@ -12076,14 +10356,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.07.01">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#5.07.01_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.07.01_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -12133,14 +10405,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.07.02">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#5.07.02_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.07.02_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.07.02">
@@ -12188,14 +10452,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.07.03">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#5.07.03_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.07.03_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -12245,14 +10501,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.07.04">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#5.07.04_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.07.04_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.07.04">
@@ -12300,14 +10548,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.08.00">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#5.08.00_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.08.00_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -12357,14 +10597,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.08.01">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#5.08.01_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.08.01_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.08.01">
@@ -12412,14 +10644,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.08.02">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#5.08.02_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.08.02_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -12469,14 +10693,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.08.03">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#5.08.03_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.08.03_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.08.03">
@@ -12524,14 +10740,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.08.04">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#5.08.04_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.08.04_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -12581,14 +10789,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.09.00">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#5.09.00_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.09.00_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.09.00">
@@ -12636,14 +10836,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.09.01">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#5.09.01_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.09.01_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -12693,14 +10885,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.09.02">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#5.09.02_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.09.02_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.09.02">
@@ -12748,14 +10932,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.00.00">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#6.00.00_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.00.00_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -12805,14 +10981,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.01.00">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#6.01.00_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.01.00_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.01.00">
@@ -12860,14 +11028,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.01.01">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#6.01.01_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.01.01_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -12917,14 +11077,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.01.02">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#6.01.02_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.01.02_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.01.02">
@@ -12972,14 +11124,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.02.00">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#6.02.00_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.02.00_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -13029,14 +11173,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.02.01">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#6.02.01_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.02.01_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.02.01">
@@ -13084,14 +11220,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.02.02">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#6.02.02_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.02.02_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -13141,14 +11269,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.02.03">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#6.02.03_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.02.03_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.02.03">
@@ -13196,14 +11316,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.02.04">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#6.02.04_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.02.04_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -13253,14 +11365,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.02.05">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#6.02.05_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.02.05_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.02.05">
@@ -13308,14 +11412,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.02.06">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#6.02.06_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.02.06_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -13365,14 +11461,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.03.00">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#6.03.00_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.03.00_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.03.00">
@@ -13420,14 +11508,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.03.01">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#6.03.01_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.03.01_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -13477,14 +11557,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.03.02">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#6.03.02_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.03.02_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.03.02">
@@ -13532,14 +11604,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.03.03">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#6.03.03_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.03.03_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -13589,14 +11653,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.03.04">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#6.03.04_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.03.04_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.03.04">
@@ -13644,14 +11700,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.04.00">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#6.04.00_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.04.00_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -13701,14 +11749,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.04.01">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#6.04.01_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.04.01_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.04.01">
@@ -13756,14 +11796,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.04.02">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#6.04.02_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.04.02_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -13813,14 +11845,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.04.03">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#6.04.03_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.04.03_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.04.03">
@@ -13868,14 +11892,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.04.04">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#6.04.04_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.04.04_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
@@ -13925,14 +11941,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.04.05">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#6.04.05_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.04.05_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
-	
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.04.05">
@@ -13963,6 +11971,54 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 	
 
+	<!-- Música                                                       -->
+	<!-- http://purl.org/pe-repo/ocde/ford#6.04.06                    -->
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.04.06">
+		<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.04.06">
+		<skos:inScheme rdf:resource="http://purl.org/pe-repo/ocde/ford"/>
+	</rdf:Description>
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.04.06">
+		<skos:broader rdf:resource="6.04.00"/>
+	</rdf:Description>
+	
+
+	
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.04.06">
+		<skosxl:prefLabel rdf:resource="http://purl.org/pe-repo/ocde/ford#6.04.06_pref_label_es"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.04.06_pref_label_es">
+		<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.04.06_pref_label_es">
+		<skosxl:literalForm xml:lang="es">Música</skosxl:literalForm>
+	</rdf:Description>
+	
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.04.06">
+		<skosxl:prefLabel rdf:resource="http://purl.org/pe-repo/ocde/ford#6.04.06_pref_label_en"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.04.06_pref_label_en">
+		<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.04.06_pref_label_en">
+		<skosxl:literalForm xml:lang="en">Music</skosxl:literalForm>
+	</rdf:Description>
+	
+	
+
 	<!-- Otras humanidades                                            -->
 	<!-- http://purl.org/pe-repo/ocde/ford#6.05.00                    -->
 
@@ -13980,14 +12036,6 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 	
 
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.05.00">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/ford#6.05.00_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.05.00_def_es">
-		<rdf:value xml:lang="es"></rdf:value>
-	</rdf:Description>
 	
 
 	
