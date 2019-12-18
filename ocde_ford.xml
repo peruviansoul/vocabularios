@@ -305,7 +305,7 @@
 	
 	
 
-	<!-- Informática                                                  -->
+	<!-- Ciencias de la computación                                   -->
 	<!-- http://purl.org/pe-repo/ocde/ford#1.02.01                    -->
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.02.01">
@@ -334,7 +334,7 @@
 	</rdf:Description>
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.02.01_pref_label_es">
-		<skosxl:literalForm xml:lang="es">Informática</skosxl:literalForm>
+		<skosxl:literalForm xml:lang="es">Ciencias de la computación</skosxl:literalForm>
 	</rdf:Description>
 	
 
@@ -497,7 +497,7 @@
 	
 	
 
-	<!-- Física nuclear, Física molecular, Físicoquímica              -->
+	<!-- Física atómica, molecular y química                          -->
 	<!-- http://purl.org/pe-repo/ocde/ford#1.03.01                    -->
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.03.01">
@@ -526,7 +526,7 @@
 	</rdf:Description>
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.03.01_pref_label_es">
-		<skosxl:literalForm xml:lang="es">Física nuclear, Física molecular, Físicoquímica</skosxl:literalForm>
+		<skosxl:literalForm xml:lang="es">Física atómica, molecular y química</skosxl:literalForm>
 	</rdf:Description>
 	
 
@@ -689,7 +689,7 @@
 	
 	
 
-	<!-- Reología, Física del plasma                                  -->
+	<!-- Física de plasmas y fluídos                                  -->
 	<!-- http://purl.org/pe-repo/ocde/ford#1.03.05                    -->
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.03.05">
@@ -718,7 +718,7 @@
 	</rdf:Description>
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.03.05_pref_label_es">
-		<skosxl:literalForm xml:lang="es">Reología, Física del plasma</skosxl:literalForm>
+		<skosxl:literalForm xml:lang="es">Física de plasmas y fluídos</skosxl:literalForm>
 	</rdf:Description>
 	
 
@@ -737,7 +737,7 @@
 	
 	
 
-	<!-- Óptica, Acústica                                             -->
+	<!-- Óptica                                                       -->
 	<!-- http://purl.org/pe-repo/ocde/ford#1.03.06                    -->
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.03.06">
@@ -766,7 +766,7 @@
 	</rdf:Description>
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.03.06_pref_label_es">
-		<skosxl:literalForm xml:lang="es">Óptica, Acústica</skosxl:literalForm>
+		<skosxl:literalForm xml:lang="es">Óptica</skosxl:literalForm>
 	</rdf:Description>
 	
 
@@ -780,12 +780,12 @@
 	</rdf:Description>
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.03.06_pref_label_en">
-		<skosxl:literalForm xml:lang="en">Optics, Acoustics</skosxl:literalForm>
+		<skosxl:literalForm xml:lang="en">Optics</skosxl:literalForm>
 	</rdf:Description>
 	
 	
 
-	<!-- Astronomía                                                   -->
+	<!-- Acústica                                                     -->
 	<!-- http://purl.org/pe-repo/ocde/ford#1.03.07                    -->
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.03.07">
@@ -814,7 +814,7 @@
 	</rdf:Description>
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.03.07_pref_label_es">
-		<skosxl:literalForm xml:lang="es">Astronomía</skosxl:literalForm>
+		<skosxl:literalForm xml:lang="es">Acústica</skosxl:literalForm>
 	</rdf:Description>
 	
 
@@ -828,6 +828,54 @@
 	</rdf:Description>
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.03.07_pref_label_en">
+		<skosxl:literalForm xml:lang="en">Acoustics</skosxl:literalForm>
+	</rdf:Description>
+	
+	
+
+	<!-- Astronomía                                                   -->
+	<!-- http://purl.org/pe-repo/ocde/ford#1.03.08                    -->
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.03.08">
+		<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.03.08">
+		<skos:inScheme rdf:resource="http://purl.org/pe-repo/ocde/ford"/>
+	</rdf:Description>
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.03.08">
+		<skos:broader rdf:resource="1.03.00"/>
+	</rdf:Description>
+	
+
+	
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.03.08">
+		<skosxl:prefLabel rdf:resource="http://purl.org/pe-repo/ocde/ford#1.03.08_pref_label_es"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.03.08_pref_label_es">
+		<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.03.08_pref_label_es">
+		<skosxl:literalForm xml:lang="es">Astronomía</skosxl:literalForm>
+	</rdf:Description>
+	
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.03.08">
+		<skosxl:prefLabel rdf:resource="http://purl.org/pe-repo/ocde/ford#1.03.08_pref_label_en"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.03.08_pref_label_en">
+		<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.03.08_pref_label_en">
 		<skosxl:literalForm xml:lang="en">Astronomy</skosxl:literalForm>
 	</rdf:Description>
 	
@@ -977,7 +1025,7 @@
 	
 	
 
-	<!-- Química física, Ciencia de los polímeros, Electroquímica     -->
+	<!-- Química física                                               -->
 	<!-- http://purl.org/pe-repo/ocde/ford#1.04.03                    -->
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.04.03">
@@ -1006,7 +1054,7 @@
 	</rdf:Description>
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.04.03_pref_label_es">
-		<skosxl:literalForm xml:lang="es">Química física, Ciencia de los polímeros, Electroquímica</skosxl:literalForm>
+		<skosxl:literalForm xml:lang="es">Química física</skosxl:literalForm>
 	</rdf:Description>
 	
 
@@ -1020,12 +1068,12 @@
 	</rdf:Description>
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.04.03_pref_label_en">
-		<skosxl:literalForm xml:lang="en">Physical chemistry, Polymer science, Electrochemistry</skosxl:literalForm>
+		<skosxl:literalForm xml:lang="en">Physical chemistry</skosxl:literalForm>
 	</rdf:Description>
 	
 	
 
-	<!-- Química coloidal                                             -->
+	<!-- Ciencia de los polímeros                                     -->
 	<!-- http://purl.org/pe-repo/ocde/ford#1.04.04                    -->
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.04.04">
@@ -1054,7 +1102,7 @@
 	</rdf:Description>
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.04.04_pref_label_es">
-		<skosxl:literalForm xml:lang="es">Química coloidal</skosxl:literalForm>
+		<skosxl:literalForm xml:lang="es">Ciencia de los polímeros</skosxl:literalForm>
 	</rdf:Description>
 	
 
@@ -1068,12 +1116,12 @@
 	</rdf:Description>
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.04.04_pref_label_en">
-		<skosxl:literalForm xml:lang="en">Colloid chemistry</skosxl:literalForm>
+		<skosxl:literalForm xml:lang="en">Polymer science</skosxl:literalForm>
 	</rdf:Description>
 	
 	
 
-	<!-- Química analítica                                            -->
+	<!-- Electroquímica                                               -->
 	<!-- http://purl.org/pe-repo/ocde/ford#1.04.05                    -->
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.04.05">
@@ -1102,7 +1150,7 @@
 	</rdf:Description>
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.04.05_pref_label_es">
-		<skosxl:literalForm xml:lang="es">Química analítica</skosxl:literalForm>
+		<skosxl:literalForm xml:lang="es">Electroquímica</skosxl:literalForm>
 	</rdf:Description>
 	
 
@@ -1116,6 +1164,102 @@
 	</rdf:Description>
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.04.05_pref_label_en">
+		<skosxl:literalForm xml:lang="en">Electrochemistry</skosxl:literalForm>
+	</rdf:Description>
+	
+	
+
+	<!-- Química coloidal                                             -->
+	<!-- http://purl.org/pe-repo/ocde/ford#1.04.06                    -->
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.04.06">
+		<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.04.06">
+		<skos:inScheme rdf:resource="http://purl.org/pe-repo/ocde/ford"/>
+	</rdf:Description>
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.04.06">
+		<skos:broader rdf:resource="1.04.00"/>
+	</rdf:Description>
+	
+
+	
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.04.06">
+		<skosxl:prefLabel rdf:resource="http://purl.org/pe-repo/ocde/ford#1.04.06_pref_label_es"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.04.06_pref_label_es">
+		<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.04.06_pref_label_es">
+		<skosxl:literalForm xml:lang="es">Química coloidal</skosxl:literalForm>
+	</rdf:Description>
+	
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.04.06">
+		<skosxl:prefLabel rdf:resource="http://purl.org/pe-repo/ocde/ford#1.04.06_pref_label_en"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.04.06_pref_label_en">
+		<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.04.06_pref_label_en">
+		<skosxl:literalForm xml:lang="en">Colloid chemistry</skosxl:literalForm>
+	</rdf:Description>
+	
+	
+
+	<!-- Química analítica                                            -->
+	<!-- http://purl.org/pe-repo/ocde/ford#1.04.07                    -->
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.04.07">
+		<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.04.07">
+		<skos:inScheme rdf:resource="http://purl.org/pe-repo/ocde/ford"/>
+	</rdf:Description>
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.04.07">
+		<skos:broader rdf:resource="1.04.00"/>
+	</rdf:Description>
+	
+
+	
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.04.07">
+		<skosxl:prefLabel rdf:resource="http://purl.org/pe-repo/ocde/ford#1.04.07_pref_label_es"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.04.07_pref_label_es">
+		<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.04.07_pref_label_es">
+		<skosxl:literalForm xml:lang="es">Química analítica</skosxl:literalForm>
+	</rdf:Description>
+	
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.04.07">
+		<skosxl:prefLabel rdf:resource="http://purl.org/pe-repo/ocde/ford#1.04.07_pref_label_en"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.04.07_pref_label_en">
+		<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.04.07_pref_label_en">
 		<skosxl:literalForm xml:lang="en">Analytical chemistry</skosxl:literalForm>
 	</rdf:Description>
 	
@@ -1505,7 +1649,7 @@
 	
 	
 
-	<!-- Ciencias ambientales                                         -->
+	<!-- Ciencias del medio ambiente                                  -->
 	<!-- http://purl.org/pe-repo/ocde/ford#1.05.08                    -->
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.05.08">
@@ -1534,7 +1678,7 @@
 	</rdf:Description>
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.05.08_pref_label_es">
-		<skosxl:literalForm xml:lang="es">Ciencias ambientales</skosxl:literalForm>
+		<skosxl:literalForm xml:lang="es">Ciencias del medio ambiente</skosxl:literalForm>
 	</rdf:Description>
 	
 
@@ -1553,7 +1697,7 @@
 	
 	
 
-	<!-- Meteorología, Ciencias ambientales                           -->
+	<!-- Meteorología y ciencias atmosféricas                         -->
 	<!-- http://purl.org/pe-repo/ocde/ford#1.05.09                    -->
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.05.09">
@@ -1582,7 +1726,7 @@
 	</rdf:Description>
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.05.09_pref_label_es">
-		<skosxl:literalForm xml:lang="es">Meteorología, Ciencias ambientales</skosxl:literalForm>
+		<skosxl:literalForm xml:lang="es">Meteorología y ciencias atmosféricas</skosxl:literalForm>
 	</rdf:Description>
 	
 
@@ -2129,7 +2273,7 @@
 	
 	
 
-	<!-- Desarrollo fisiológico                                       -->
+	<!-- Biología del desarrollo                                      -->
 	<!-- http://purl.org/pe-repo/ocde/ford#1.06.09                    -->
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.06.09">
@@ -2158,7 +2302,7 @@
 	</rdf:Description>
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.06.09_pref_label_es">
-		<skosxl:literalForm xml:lang="es">Desarrollo fisiológico</skosxl:literalForm>
+		<skosxl:literalForm xml:lang="es">Biología del desarrollo</skosxl:literalForm>
 	</rdf:Description>
 	
 
@@ -2225,7 +2369,7 @@
 	
 	
 
-	<!-- Zoología, Ornitología, Entomología, Etología                 -->
+	<!-- Zoología, Ornitología, Entomología, ciencias biológicas del comportamiento -->
 	<!-- http://purl.org/pe-repo/ocde/ford#1.06.11                    -->
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.06.11">
@@ -2254,7 +2398,7 @@
 	</rdf:Description>
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#1.06.11_pref_label_es">
-		<skosxl:literalForm xml:lang="es">Zoología, Ornitología, Entomología, Etología</skosxl:literalForm>
+		<skosxl:literalForm xml:lang="es">Zoología, Ornitología, Entomología, ciencias biológicas del comportamiento</skosxl:literalForm>
 	</rdf:Description>
 	
 
@@ -2705,7 +2849,7 @@
 	
 	
 
-	<!-- Ingeniería de la edificación                                 -->
+	<!-- Ingeniería arquitectónica                                    -->
 	<!-- http://purl.org/pe-repo/ocde/ford#2.01.02                    -->
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.01.02">
@@ -2734,7 +2878,7 @@
 	</rdf:Description>
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.01.02_pref_label_es">
-		<skosxl:literalForm xml:lang="es">Ingeniería de la edificación</skosxl:literalForm>
+		<skosxl:literalForm xml:lang="es">Ingeniería arquitectónica</skosxl:literalForm>
 	</rdf:Description>
 	
 
@@ -2753,8 +2897,7 @@
 	
 	
 
-	<!-- 
-Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural -->
+	<!-- Ingeniería de la construcción                                -->
 	<!-- http://purl.org/pe-repo/ocde/ford#2.01.03                    -->
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.01.03">
@@ -2783,8 +2926,7 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural -->
 	</rdf:Description>
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.01.03_pref_label_es">
-		<skosxl:literalForm xml:lang="es">
-Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</skosxl:literalForm>
+		<skosxl:literalForm xml:lang="es">Ingeniería de la construcción</skosxl:literalForm>
 	</rdf:Description>
 	
 
@@ -2798,12 +2940,12 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.01.03_pref_label_en">
-		<skosxl:literalForm xml:lang="en">Construction engineering, Municipal and structural engineering</skosxl:literalForm>
+		<skosxl:literalForm xml:lang="en">Construction engineering</skosxl:literalForm>
 	</rdf:Description>
 	
 	
 
-	<!-- Ingeniería del transporte                                    -->
+	<!-- Ingeniería estructural y municipal                           -->
 	<!-- http://purl.org/pe-repo/ocde/ford#2.01.04                    -->
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.01.04">
@@ -2832,7 +2974,7 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.01.04_pref_label_es">
-		<skosxl:literalForm xml:lang="es">Ingeniería del transporte</skosxl:literalForm>
+		<skosxl:literalForm xml:lang="es">Ingeniería estructural y municipal</skosxl:literalForm>
 	</rdf:Description>
 	
 
@@ -2846,6 +2988,54 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.01.04_pref_label_en">
+		<skosxl:literalForm xml:lang="en">Municipal and structural engineering</skosxl:literalForm>
+	</rdf:Description>
+	
+	
+
+	<!-- Ingeniería del transporte                                    -->
+	<!-- http://purl.org/pe-repo/ocde/ford#2.01.05                    -->
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.01.05">
+		<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.01.05">
+		<skos:inScheme rdf:resource="http://purl.org/pe-repo/ocde/ford"/>
+	</rdf:Description>
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.01.05">
+		<skos:broader rdf:resource="2.01.00"/>
+	</rdf:Description>
+	
+
+	
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.01.05">
+		<skosxl:prefLabel rdf:resource="http://purl.org/pe-repo/ocde/ford#2.01.05_pref_label_es"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.01.05_pref_label_es">
+		<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.01.05_pref_label_es">
+		<skosxl:literalForm xml:lang="es">Ingeniería del transporte</skosxl:literalForm>
+	</rdf:Description>
+	
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.01.05">
+		<skosxl:prefLabel rdf:resource="http://purl.org/pe-repo/ocde/ford#2.01.05_pref_label_en"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.01.05_pref_label_en">
+		<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.01.05_pref_label_en">
 		<skosxl:literalForm xml:lang="en">Transport engineering</skosxl:literalForm>
 	</rdf:Description>
 	
@@ -3043,7 +3233,7 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 	
 
-	<!-- Ingeniería de telecomunicaciones, Ingeniería de sistemas     -->
+	<!-- Ingeniería de sistemas y comunicaciones                      -->
 	<!-- http://purl.org/pe-repo/ocde/ford#2.02.04                    -->
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.02.04">
@@ -3072,7 +3262,7 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.02.04_pref_label_es">
-		<skosxl:literalForm xml:lang="es">Ingeniería de telecomunicaciones, Ingeniería de sistemas</skosxl:literalForm>
+		<skosxl:literalForm xml:lang="es">Ingeniería de sistemas y comunicaciones</skosxl:literalForm>
 	</rdf:Description>
 	
 
@@ -3619,7 +3809,7 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 	
 
-	<!-- Ingeniería de procesos químicos                              -->
+	<!-- Ingeniería de procesos                                       -->
 	<!-- http://purl.org/pe-repo/ocde/ford#2.04.02                    -->
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.04.02">
@@ -3648,7 +3838,7 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.04.02_pref_label_es">
-		<skosxl:literalForm xml:lang="es">Ingeniería de procesos químicos</skosxl:literalForm>
+		<skosxl:literalForm xml:lang="es">Ingeniería de procesos</skosxl:literalForm>
 	</rdf:Description>
 	
 
@@ -4147,7 +4337,7 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 	
 
-	<!-- Tecnología de laboratorio clínico                            -->
+	<!-- Tecnología médica de laboratorio (análisis de muestras, tecnologías para el diagnóstico) -->
 	<!-- http://purl.org/pe-repo/ocde/ford#2.06.02                    -->
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.06.02">
@@ -4176,7 +4366,7 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.06.02_pref_label_es">
-		<skosxl:literalForm xml:lang="es">Tecnología de laboratorio clínico</skosxl:literalForm>
+		<skosxl:literalForm xml:lang="es">Tecnología médica de laboratorio (análisis de muestras, tecnologías para el diagnóstico)</skosxl:literalForm>
 	</rdf:Description>
 	
 
@@ -4243,7 +4433,7 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 	
 
-	<!-- Ingeniería ambiental, Ingeniería geológica, Geotécnia        -->
+	<!-- Ingeniería ambiental y geológica                             -->
 	<!-- http://purl.org/pe-repo/ocde/ford#2.07.01                    -->
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.07.01">
@@ -4272,7 +4462,7 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.07.01_pref_label_es">
-		<skosxl:literalForm xml:lang="es">Ingeniería ambiental, Ingeniería geológica, Geotécnia</skosxl:literalForm>
+		<skosxl:literalForm xml:lang="es">Ingeniería ambiental y geológica</skosxl:literalForm>
 	</rdf:Description>
 	
 
@@ -4286,12 +4476,12 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.07.01_pref_label_en">
-		<skosxl:literalForm xml:lang="en">Environmental and geological engineering, geotechnics</skosxl:literalForm>
+		<skosxl:literalForm xml:lang="en">Environmental and geological engineering</skosxl:literalForm>
 	</rdf:Description>
 	
 	
 
-	<!-- Ingeniería del Petróleo, (combustibles, aceites), Energía, Combustibles -->
+	<!-- Geotecnia                                                    -->
 	<!-- http://purl.org/pe-repo/ocde/ford#2.07.02                    -->
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.07.02">
@@ -4320,7 +4510,7 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.07.02_pref_label_es">
-		<skosxl:literalForm xml:lang="es">Ingeniería del Petróleo, (combustibles, aceites), Energía, Combustibles</skosxl:literalForm>
+		<skosxl:literalForm xml:lang="es">Geotecnia</skosxl:literalForm>
 	</rdf:Description>
 	
 
@@ -4334,12 +4524,12 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.07.02_pref_label_en">
-		<skosxl:literalForm xml:lang="en">Petroleum Engineering, (fuel, oils), Energy and fuels</skosxl:literalForm>
+		<skosxl:literalForm xml:lang="en">Geotechnics</skosxl:literalForm>
 	</rdf:Description>
 	
 	
 
-	<!-- Teledetección                                                -->
+	<!-- Ingeniería del Petróleo, (combustibles, aceites), Energía, Combustibles -->
 	<!-- http://purl.org/pe-repo/ocde/ford#2.07.03                    -->
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.07.03">
@@ -4368,7 +4558,7 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.07.03_pref_label_es">
-		<skosxl:literalForm xml:lang="es">Teledetección</skosxl:literalForm>
+		<skosxl:literalForm xml:lang="es">Ingeniería del Petróleo, (combustibles, aceites), Energía, Combustibles</skosxl:literalForm>
 	</rdf:Description>
 	
 
@@ -4382,12 +4572,12 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.07.03_pref_label_en">
-		<skosxl:literalForm xml:lang="en">Remote sensing</skosxl:literalForm>
+		<skosxl:literalForm xml:lang="en">Petroleum Engineering, (fuel, oils), Energy and fuels</skosxl:literalForm>
 	</rdf:Description>
 	
 	
 
-	<!-- Minería, Procesamiento de minerales                          -->
+	<!-- Sensores remotos                                             -->
 	<!-- http://purl.org/pe-repo/ocde/ford#2.07.04                    -->
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.07.04">
@@ -4416,7 +4606,7 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.07.04_pref_label_es">
-		<skosxl:literalForm xml:lang="es">Minería, Procesamiento de minerales</skosxl:literalForm>
+		<skosxl:literalForm xml:lang="es">Sensores remotos</skosxl:literalForm>
 	</rdf:Description>
 	
 
@@ -4430,12 +4620,12 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.07.04_pref_label_en">
-		<skosxl:literalForm xml:lang="en">Mining and Mineral Processing</skosxl:literalForm>
+		<skosxl:literalForm xml:lang="en">Remote sensing</skosxl:literalForm>
 	</rdf:Description>
 	
 	
 
-	<!-- Ingeniería naval, Buques                                     -->
+	<!-- Minería, Procesamiento de minerales                          -->
 	<!-- http://purl.org/pe-repo/ocde/ford#2.07.05                    -->
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.07.05">
@@ -4464,7 +4654,7 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.07.05_pref_label_es">
-		<skosxl:literalForm xml:lang="es">Ingeniería naval, Buques</skosxl:literalForm>
+		<skosxl:literalForm xml:lang="es">Minería, Procesamiento de minerales</skosxl:literalForm>
 	</rdf:Description>
 	
 
@@ -4478,12 +4668,12 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.07.05_pref_label_en">
-		<skosxl:literalForm xml:lang="en">Marine engineering, sea vessels</skosxl:literalForm>
+		<skosxl:literalForm xml:lang="en">Mining and Mineral Processing</skosxl:literalForm>
 	</rdf:Description>
 	
 	
 
-	<!-- Ingeniería océano                                            -->
+	<!-- Ingeniería marina, naves                                     -->
 	<!-- http://purl.org/pe-repo/ocde/ford#2.07.06                    -->
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.07.06">
@@ -4512,7 +4702,7 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.07.06_pref_label_es">
-		<skosxl:literalForm xml:lang="es">Ingeniería océano</skosxl:literalForm>
+		<skosxl:literalForm xml:lang="es">Ingeniería marina, naves</skosxl:literalForm>
 	</rdf:Description>
 	
 
@@ -4526,6 +4716,54 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.07.06_pref_label_en">
+		<skosxl:literalForm xml:lang="en">Marine engineering, sea vessels</skosxl:literalForm>
+	</rdf:Description>
+	
+	
+
+	<!-- Ingeniería oceanográfica                                     -->
+	<!-- http://purl.org/pe-repo/ocde/ford#2.07.07                    -->
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.07.07">
+		<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.07.07">
+		<skos:inScheme rdf:resource="http://purl.org/pe-repo/ocde/ford"/>
+	</rdf:Description>
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.07.07">
+		<skos:broader rdf:resource="2.07.00"/>
+	</rdf:Description>
+	
+
+	
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.07.07">
+		<skosxl:prefLabel rdf:resource="http://purl.org/pe-repo/ocde/ford#2.07.07_pref_label_es"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.07.07_pref_label_es">
+		<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.07.07_pref_label_es">
+		<skosxl:literalForm xml:lang="es">Ingeniería oceanográfica</skosxl:literalForm>
+	</rdf:Description>
+	
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.07.07">
+		<skosxl:prefLabel rdf:resource="http://purl.org/pe-repo/ocde/ford#2.07.07_pref_label_en"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.07.07_pref_label_en">
+		<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.07.07_pref_label_en">
 		<skosxl:literalForm xml:lang="en">Ocean Engineering</skosxl:literalForm>
 	</rdf:Description>
 	
@@ -4867,7 +5105,7 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 	
 
-	<!-- Bioproductos, Biomateriales, Bioplásticos, Biocarburantes, Productos químicos bioderivados a granel y finos, Nuevos materiales bioderivados. -->
+	<!-- Bioproductos (productos que se manufacturan usando biotecnología), biomateriales, bioplásticos, biocombustibles, materiales nuevos bioderivados, químicos finos bioredivados -->
 	<!-- http://purl.org/pe-repo/ocde/ford#2.09.03                    -->
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.09.03">
@@ -4896,7 +5134,7 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.09.03_pref_label_es">
-		<skosxl:literalForm xml:lang="es">Bioproductos, Biomateriales, Bioplásticos, Biocarburantes, Productos químicos bioderivados a granel y finos, Nuevos materiales bioderivados.</skosxl:literalForm>
+		<skosxl:literalForm xml:lang="es">Bioproductos (productos que se manufacturan usando biotecnología), biomateriales, bioplásticos, biocombustibles, materiales nuevos bioderivados, químicos finos bioredivados</skosxl:literalForm>
 	</rdf:Description>
 	
 
@@ -5200,6 +5438,78 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.11.02_pref_label_en">
 		<skosxl:literalForm xml:lang="en">Other engineering and technologies</skosxl:literalForm>
 	</rdf:Description>
+	
+	
+
+	<!-- Ingeniería de producción                                     -->
+	<!-- http://purl.org/pe-repo/ocde/ford#2.11.03                    -->
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.11.03">
+		<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.11.03">
+		<skos:inScheme rdf:resource="http://purl.org/pe-repo/ocde/ford"/>
+	</rdf:Description>
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.11.03">
+		<skos:broader rdf:resource="2.11.00"/>
+	</rdf:Description>
+	
+
+	
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.11.03">
+		<skosxl:prefLabel rdf:resource="http://purl.org/pe-repo/ocde/ford#2.11.03_pref_label_es"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.11.03_pref_label_es">
+		<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.11.03_pref_label_es">
+		<skosxl:literalForm xml:lang="es">Ingeniería de producción</skosxl:literalForm>
+	</rdf:Description>
+	
+
+	
+	
+
+	<!-- Ingeniería industrial                                        -->
+	<!-- http://purl.org/pe-repo/ocde/ford#2.11.04                    -->
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.11.04">
+		<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.11.04">
+		<skos:inScheme rdf:resource="http://purl.org/pe-repo/ocde/ford"/>
+	</rdf:Description>
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.11.04">
+		<skos:broader rdf:resource="2.11.00"/>
+	</rdf:Description>
+	
+
+	
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.11.04">
+		<skosxl:prefLabel rdf:resource="http://purl.org/pe-repo/ocde/ford#2.11.04_pref_label_es"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.11.04_pref_label_es">
+		<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#2.11.04_pref_label_es">
+		<skosxl:literalForm xml:lang="es">Ingeniería industrial</skosxl:literalForm>
+	</rdf:Description>
+	
+
 	
 	
 
@@ -6115,7 +6425,7 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 	
 
-	<!-- Medicina intensiva, Medicina de urgencias                    -->
+	<!-- Cuidado crítico y de emergencia                              -->
 	<!-- http://purl.org/pe-repo/ocde/ford#3.02.08                    -->
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.02.08">
@@ -6144,7 +6454,7 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.02.08_pref_label_es">
-		<skosxl:literalForm xml:lang="es">Medicina intensiva, Medicina de urgencias</skosxl:literalForm>
+		<skosxl:literalForm xml:lang="es">Cuidado crítico y de emergencia</skosxl:literalForm>
 	</rdf:Description>
 	
 
@@ -7219,7 +7529,7 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 	
 
-	<!-- Ciencias de la salud, Servicios de salud                     -->
+	<!-- Ciencias del cuidado de la salud y servicios (administración de hospitales, financiamiento) -->
 	<!-- http://purl.org/pe-repo/ocde/ford#3.03.01                    -->
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.03.01">
@@ -7248,7 +7558,7 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.03.01_pref_label_es">
-		<skosxl:literalForm xml:lang="es">Ciencias de la salud, Servicios de salud</skosxl:literalForm>
+		<skosxl:literalForm xml:lang="es">Ciencias del cuidado de la salud y servicios (administración de hospitales, financiamiento)</skosxl:literalForm>
 	</rdf:Description>
 	
 
@@ -7747,7 +8057,7 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 	
 
-	<!-- Ciencias biomédicas sociales                                 -->
+	<!-- Ciencias socio biomédicas (planificación familiar, salud sexual, efectos políticos y sociales de la investigación biomédica) -->
 	<!-- http://purl.org/pe-repo/ocde/ford#3.03.12                    -->
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.03.12">
@@ -7776,7 +8086,7 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.03.12_pref_label_es">
-		<skosxl:literalForm xml:lang="es">Ciencias biomédicas sociales</skosxl:literalForm>
+		<skosxl:literalForm xml:lang="es">Ciencias socio biomédicas (planificación familiar, salud sexual, efectos políticos y sociales de la investigación biomédica)</skosxl:literalForm>
 	</rdf:Description>
 	
 
@@ -7795,7 +8105,7 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 	
 
-	<!-- Ética medica                                                 -->
+	<!-- Ética                                                        -->
 	<!-- http://purl.org/pe-repo/ocde/ford#3.03.13                    -->
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.03.13">
@@ -7824,7 +8134,7 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.03.13_pref_label_es">
-		<skosxl:literalForm xml:lang="es">Ética medica</skosxl:literalForm>
+		<skosxl:literalForm xml:lang="es">Ética</skosxl:literalForm>
 	</rdf:Description>
 	
 
@@ -8035,7 +8345,7 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 	
 
-	<!-- Tecnologías que implican identificar el funcionamiento de DNA -->
+	<!-- Tecnología para la identificación y funcionamiento del ADN, proteínas y enzimas y como influencian la enfermedad) -->
 	<!-- http://purl.org/pe-repo/ocde/ford#3.04.03                    -->
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.04.03">
@@ -8064,7 +8374,7 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.04.03_pref_label_es">
-		<skosxl:literalForm xml:lang="es">Tecnologías que implican identificar el funcionamiento de DNA</skosxl:literalForm>
+		<skosxl:literalForm xml:lang="es">Tecnología para la identificación y funcionamiento del ADN, proteínas y enzimas y como influencian la enfermedad)</skosxl:literalForm>
 	</rdf:Description>
 	
 
@@ -8323,6 +8633,42 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 	
 
+	<!-- Fonoaudiología                                               -->
+	<!-- http://purl.org/pe-repo/ocde/ford#3.05.03                    -->
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.05.03">
+		<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.05.03">
+		<skos:inScheme rdf:resource="http://purl.org/pe-repo/ocde/ford"/>
+	</rdf:Description>
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.05.03">
+		<skos:broader rdf:resource="3.05.00"/>
+	</rdf:Description>
+	
+
+	
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.05.03">
+		<skosxl:prefLabel rdf:resource="http://purl.org/pe-repo/ocde/ford#3.05.03_pref_label_es"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.05.03_pref_label_es">
+		<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#3.05.03_pref_label_es">
+		<skosxl:literalForm xml:lang="es">Fonoaudiología</skosxl:literalForm>
+	</rdf:Description>
+	
+
+	
+	
+
 	<!-- Ciencias agrícolas                                           -->
 	<!-- http://purl.org/pe-repo/ocde/ford#4.00.00                    -->
 
@@ -8467,7 +8813,7 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 	
 
-	<!-- Silvicultura                                                 -->
+	<!-- Forestal                                                     -->
 	<!-- http://purl.org/pe-repo/ocde/ford#4.01.02                    -->
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#4.01.02">
@@ -8496,7 +8842,7 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#4.01.02_pref_label_es">
-		<skosxl:literalForm xml:lang="es">Silvicultura</skosxl:literalForm>
+		<skosxl:literalForm xml:lang="es">Forestal</skosxl:literalForm>
 	</rdf:Description>
 	
 
@@ -8659,7 +9005,7 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 	
 
-	<!-- Agronomía, Fitomejoramiento de plantas, Protección de las plantas -->
+	<!-- Agronomía                                                    -->
 	<!-- http://purl.org/pe-repo/ocde/ford#4.01.06                    -->
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#4.01.06">
@@ -8688,7 +9034,7 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#4.01.06_pref_label_es">
-		<skosxl:literalForm xml:lang="es">Agronomía, Fitomejoramiento de plantas, Protección de las plantas</skosxl:literalForm>
+		<skosxl:literalForm xml:lang="es">Agronomía</skosxl:literalForm>
 	</rdf:Description>
 	
 
@@ -8702,7 +9048,55 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#4.01.06_pref_label_en">
-		<skosxl:literalForm xml:lang="en">Agronomy, plant breeding and plant protection</skosxl:literalForm>
+		<skosxl:literalForm xml:lang="en">Agronomy</skosxl:literalForm>
+	</rdf:Description>
+	
+	
+
+	<!-- Protección y nutrición de las plantas                        -->
+	<!-- http://purl.org/pe-repo/ocde/ford#4.01.07                    -->
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#4.01.07">
+		<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#4.01.07">
+		<skos:inScheme rdf:resource="http://purl.org/pe-repo/ocde/ford"/>
+	</rdf:Description>
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#4.01.07">
+		<skos:broader rdf:resource="4.01.00"/>
+	</rdf:Description>
+	
+
+	
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#4.01.07">
+		<skosxl:prefLabel rdf:resource="http://purl.org/pe-repo/ocde/ford#4.01.07_pref_label_es"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#4.01.07_pref_label_es">
+		<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#4.01.07_pref_label_es">
+		<skosxl:literalForm xml:lang="es">Protección y nutrición de las plantas</skosxl:literalForm>
+	</rdf:Description>
+	
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#4.01.07">
+		<skosxl:prefLabel rdf:resource="http://purl.org/pe-repo/ocde/ford#4.01.07_pref_label_en"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#4.01.07_pref_label_en">
+		<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#4.01.07_pref_label_en">
+		<skosxl:literalForm xml:lang="en">Plant breeding and plant protection</skosxl:literalForm>
 	</rdf:Description>
 	
 	
@@ -8851,7 +9245,7 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 	
 
-	<!-- Mascotas                                                     -->
+	<!-- Crías y mascotas                                             -->
 	<!-- http://purl.org/pe-repo/ocde/ford#4.02.03                    -->
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#4.02.03">
@@ -8880,7 +9274,7 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#4.02.03_pref_label_es">
-		<skosxl:literalForm xml:lang="es">Mascotas</skosxl:literalForm>
+		<skosxl:literalForm xml:lang="es">Crías y mascotas</skosxl:literalForm>
 	</rdf:Description>
 	
 
@@ -9331,7 +9725,7 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 	
 
-	<!-- Psicología                                                   -->
+	<!-- Psicología (incluye relaciones hombre-máquina)               -->
 	<!-- http://purl.org/pe-repo/ocde/ford#5.01.01                    -->
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.01.01">
@@ -9360,7 +9754,7 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.01.01_pref_label_es">
-		<skosxl:literalForm xml:lang="es">Psicología</skosxl:literalForm>
+		<skosxl:literalForm xml:lang="es">Psicología (incluye relaciones hombre-máquina)</skosxl:literalForm>
 	</rdf:Description>
 	
 
@@ -9379,7 +9773,7 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 	
 
-	<!-- Otros temas de Psicología                                    -->
+	<!-- Psicología (incluye terapias de aprendizaje, habla, visual y otras discapacidades físicas y mentales) -->
 	<!-- http://purl.org/pe-repo/ocde/ford#5.01.02                    -->
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.01.02">
@@ -9408,7 +9802,7 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.01.02_pref_label_es">
-		<skosxl:literalForm xml:lang="es">Otros temas de Psicología</skosxl:literalForm>
+		<skosxl:literalForm xml:lang="es">Psicología (incluye terapias de aprendizaje, habla, visual y otras discapacidades físicas y mentales)</skosxl:literalForm>
 	</rdf:Description>
 	
 
@@ -9475,7 +9869,7 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 	
 
-	<!-- Economía, Econometría                                        -->
+	<!-- Economía                                                     -->
 	<!-- http://purl.org/pe-repo/ocde/ford#5.02.01                    -->
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.02.01">
@@ -9504,7 +9898,7 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.02.01_pref_label_es">
-		<skosxl:literalForm xml:lang="es">Economía, Econometría</skosxl:literalForm>
+		<skosxl:literalForm xml:lang="es">Economía</skosxl:literalForm>
 	</rdf:Description>
 	
 
@@ -9518,12 +9912,12 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.02.01_pref_label_en">
-		<skosxl:literalForm xml:lang="en">Economics, Econometrics</skosxl:literalForm>
+		<skosxl:literalForm xml:lang="en">Economics</skosxl:literalForm>
 	</rdf:Description>
 	
 	
 
-	<!-- Relaciones laborales                                         -->
+	<!-- Econometría                                                  -->
 	<!-- http://purl.org/pe-repo/ocde/ford#5.02.02                    -->
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.02.02">
@@ -9552,7 +9946,7 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.02.02_pref_label_es">
-		<skosxl:literalForm xml:lang="es">Relaciones laborales</skosxl:literalForm>
+		<skosxl:literalForm xml:lang="es">Econometría</skosxl:literalForm>
 	</rdf:Description>
 	
 
@@ -9566,12 +9960,12 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.02.02_pref_label_en">
-		<skosxl:literalForm xml:lang="en">Industrial relations</skosxl:literalForm>
+		<skosxl:literalForm xml:lang="en">Econometrics</skosxl:literalForm>
 	</rdf:Description>
 	
 	
 
-	<!-- Negocios, Adminsitración                                     -->
+	<!-- Relaciones Industriales                                      -->
 	<!-- http://purl.org/pe-repo/ocde/ford#5.02.03                    -->
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.02.03">
@@ -9600,7 +9994,7 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.02.03_pref_label_es">
-		<skosxl:literalForm xml:lang="es">Negocios, Adminsitración</skosxl:literalForm>
+		<skosxl:literalForm xml:lang="es">Relaciones Industriales</skosxl:literalForm>
 	</rdf:Description>
 	
 
@@ -9614,6 +10008,54 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.02.03_pref_label_en">
+		<skosxl:literalForm xml:lang="en">Industrial relations</skosxl:literalForm>
+	</rdf:Description>
+	
+	
+
+	<!-- Negocios, Administración                                     -->
+	<!-- http://purl.org/pe-repo/ocde/ford#5.02.04                    -->
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.02.04">
+		<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.02.04">
+		<skos:inScheme rdf:resource="http://purl.org/pe-repo/ocde/ford"/>
+	</rdf:Description>
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.02.04">
+		<skos:broader rdf:resource="5.02.00"/>
+	</rdf:Description>
+	
+
+	
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.02.04">
+		<skosxl:prefLabel rdf:resource="http://purl.org/pe-repo/ocde/ford#5.02.04_pref_label_es"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.02.04_pref_label_es">
+		<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.02.04_pref_label_es">
+		<skosxl:literalForm xml:lang="es">Negocios, Administración</skosxl:literalForm>
+	</rdf:Description>
+	
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.02.04">
+		<skosxl:prefLabel rdf:resource="http://purl.org/pe-repo/ocde/ford#5.02.04_pref_label_en"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.02.04_pref_label_en">
+		<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.02.04_pref_label_en">
 		<skosxl:literalForm xml:lang="en">Business and Management</skosxl:literalForm>
 	</rdf:Description>
 	
@@ -9667,7 +10109,7 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 	
 
-	<!-- Temas generales de educación, Capacitación, Pedagogía, Didáctica -->
+	<!-- Educación general (incluye capacitación, pedadogía)          -->
 	<!-- http://purl.org/pe-repo/ocde/ford#5.03.01                    -->
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.03.01">
@@ -9696,7 +10138,7 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.03.01_pref_label_es">
-		<skosxl:literalForm xml:lang="es">Temas generales de educación, Capacitación, Pedagogía, Didáctica</skosxl:literalForm>
+		<skosxl:literalForm xml:lang="es">Educación general (incluye capacitación, pedadogía)</skosxl:literalForm>
 	</rdf:Description>
 	
 
@@ -9715,7 +10157,7 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 	
 
-	<!-- Temas especiales de educación, Ambiente educacional          -->
+	<!-- Educacion especial (para estudiantes dotados y aquellos con dificultades del apredizaje) -->
 	<!-- http://purl.org/pe-repo/ocde/ford#5.03.02                    -->
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.03.02">
@@ -9744,7 +10186,7 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.03.02_pref_label_es">
-		<skosxl:literalForm xml:lang="es">Temas especiales de educación, Ambiente educacional</skosxl:literalForm>
+		<skosxl:literalForm xml:lang="es">Educacion especial (para estudiantes dotados y aquellos con dificultades del apredizaje)</skosxl:literalForm>
 	</rdf:Description>
 	
 
@@ -9907,7 +10349,7 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 	
 
-	<!-- Antropología, Etnología                                      -->
+	<!-- Antropología                                                 -->
 	<!-- http://purl.org/pe-repo/ocde/ford#5.04.03                    -->
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.04.03">
@@ -9936,7 +10378,7 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.04.03_pref_label_es">
-		<skosxl:literalForm xml:lang="es">Antropología, Etnología</skosxl:literalForm>
+		<skosxl:literalForm xml:lang="es">Antropología</skosxl:literalForm>
 	</rdf:Description>
 	
 
@@ -9950,12 +10392,12 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.04.03_pref_label_en">
-		<skosxl:literalForm xml:lang="en">Anthropology, ethnology,</skosxl:literalForm>
+		<skosxl:literalForm xml:lang="en">Anthropology</skosxl:literalForm>
 	</rdf:Description>
 	
 	
 
-	<!-- Temas sociales                                               -->
+	<!-- Etnología                                                    -->
 	<!-- http://purl.org/pe-repo/ocde/ford#5.04.04                    -->
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.04.04">
@@ -9984,7 +10426,7 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.04.04_pref_label_es">
-		<skosxl:literalForm xml:lang="es">Temas sociales</skosxl:literalForm>
+		<skosxl:literalForm xml:lang="es">Etnología</skosxl:literalForm>
 	</rdf:Description>
 	
 
@@ -9998,12 +10440,60 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.04.04_pref_label_en">
+		<skosxl:literalForm xml:lang="en">Ethnology</skosxl:literalForm>
+	</rdf:Description>
+	
+	
+
+	<!-- Temas sociales                                               -->
+	<!-- http://purl.org/pe-repo/ocde/ford#5.04.05                    -->
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.04.05">
+		<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.04.05">
+		<skos:inScheme rdf:resource="http://purl.org/pe-repo/ocde/ford"/>
+	</rdf:Description>
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.04.05">
+		<skos:broader rdf:resource="5.04.00"/>
+	</rdf:Description>
+	
+
+	
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.04.05">
+		<skosxl:prefLabel rdf:resource="http://purl.org/pe-repo/ocde/ford#5.04.05_pref_label_es"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.04.05_pref_label_es">
+		<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.04.05_pref_label_es">
+		<skosxl:literalForm xml:lang="es">Temas sociales</skosxl:literalForm>
+	</rdf:Description>
+	
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.04.05">
+		<skosxl:prefLabel rdf:resource="http://purl.org/pe-repo/ocde/ford#5.04.05_pref_label_en"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.04.05_pref_label_en">
+		<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.04.05_pref_label_en">
 		<skosxl:literalForm xml:lang="en">Social topics</skosxl:literalForm>
 	</rdf:Description>
 	
 	
 
-	<!-- Legislación                                                  -->
+	<!-- Derecho                                                      -->
 	<!-- http://purl.org/pe-repo/ocde/ford#5.05.00                    -->
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.05.00">
@@ -10032,7 +10522,7 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.05.00_pref_label_es">
-		<skosxl:literalForm xml:lang="es">Legislación</skosxl:literalForm>
+		<skosxl:literalForm xml:lang="es">Derecho</skosxl:literalForm>
 	</rdf:Description>
 	
 
@@ -10051,7 +10541,7 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 	
 
-	<!-- Derecho, Criminología, Administración de justicia            -->
+	<!-- Derecho                                                      -->
 	<!-- http://purl.org/pe-repo/ocde/ford#5.05.01                    -->
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.05.01">
@@ -10080,7 +10570,7 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.05.01_pref_label_es">
-		<skosxl:literalForm xml:lang="es">Derecho, Criminología, Administración de justicia</skosxl:literalForm>
+		<skosxl:literalForm xml:lang="es">Derecho</skosxl:literalForm>
 	</rdf:Description>
 	
 
@@ -10094,7 +10584,103 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.05.01_pref_label_en">
-		<skosxl:literalForm xml:lang="en">Law, criminology, penology</skosxl:literalForm>
+		<skosxl:literalForm xml:lang="en">Law</skosxl:literalForm>
+	</rdf:Description>
+	
+	
+
+	<!-- Derecho penal                                                -->
+	<!-- http://purl.org/pe-repo/ocde/ford#5.05.02                    -->
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.05.02">
+		<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.05.02">
+		<skos:inScheme rdf:resource="http://purl.org/pe-repo/ocde/ford"/>
+	</rdf:Description>
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.05.02">
+		<skos:broader rdf:resource="5.05.00"/>
+	</rdf:Description>
+	
+
+	
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.05.02">
+		<skosxl:prefLabel rdf:resource="http://purl.org/pe-repo/ocde/ford#5.05.02_pref_label_es"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.05.02_pref_label_es">
+		<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.05.02_pref_label_es">
+		<skosxl:literalForm xml:lang="es">Derecho penal</skosxl:literalForm>
+	</rdf:Description>
+	
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.05.02">
+		<skosxl:prefLabel rdf:resource="http://purl.org/pe-repo/ocde/ford#5.05.02_pref_label_en"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.05.02_pref_label_en">
+		<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.05.02_pref_label_en">
+		<skosxl:literalForm xml:lang="en">Penology</skosxl:literalForm>
+	</rdf:Description>
+	
+	
+
+	<!-- Criminología                                                 -->
+	<!-- http://purl.org/pe-repo/ocde/ford#5.05.03                    -->
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.05.03">
+		<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.05.03">
+		<skos:inScheme rdf:resource="http://purl.org/pe-repo/ocde/ford"/>
+	</rdf:Description>
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.05.03">
+		<skos:broader rdf:resource="5.05.00"/>
+	</rdf:Description>
+	
+
+	
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.05.03">
+		<skosxl:prefLabel rdf:resource="http://purl.org/pe-repo/ocde/ford#5.05.03_pref_label_es"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.05.03_pref_label_es">
+		<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.05.03_pref_label_es">
+		<skosxl:literalForm xml:lang="es">Criminología</skosxl:literalForm>
+	</rdf:Description>
+	
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.05.03">
+		<skosxl:prefLabel rdf:resource="http://purl.org/pe-repo/ocde/ford#5.05.03_pref_label_en"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.05.03_pref_label_en">
+		<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.05.03_pref_label_en">
+		<skosxl:literalForm xml:lang="en">Criminology</skosxl:literalForm>
 	</rdf:Description>
 	
 	
@@ -10243,7 +10829,7 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 	
 
-	<!-- Teoría de la administración                                  -->
+	<!-- Teoría organizacional                                        -->
 	<!-- http://purl.org/pe-repo/ocde/ford#5.06.03                    -->
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.06.03">
@@ -10272,7 +10858,7 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.06.03_pref_label_es">
-		<skosxl:literalForm xml:lang="es">Teoría de la administración</skosxl:literalForm>
+		<skosxl:literalForm xml:lang="es">Teoría organizacional</skosxl:literalForm>
 	</rdf:Description>
 	
 
@@ -10387,7 +10973,7 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 	
 
-	<!-- Geografía humana, Geografía económica                        -->
+	<!-- Geografía económica y cultural                               -->
 	<!-- http://purl.org/pe-repo/ocde/ford#5.07.02                    -->
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.07.02">
@@ -10416,7 +11002,7 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.07.02_pref_label_es">
-		<skosxl:literalForm xml:lang="es">Geografía humana, Geografía económica</skosxl:literalForm>
+		<skosxl:literalForm xml:lang="es">Geografía económica y cultural</skosxl:literalForm>
 	</rdf:Description>
 	
 
@@ -10483,7 +11069,7 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 	
 
-	<!-- Planificación del transporte, Economía del transporte        -->
+	<!-- Planificación del transporte y aspectos sociales del transporte -->
 	<!-- http://purl.org/pe-repo/ocde/ford#5.07.04                    -->
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.07.04">
@@ -10512,7 +11098,7 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#5.07.04_pref_label_es">
-		<skosxl:literalForm xml:lang="es">Planificación del transporte, Economía del transporte</skosxl:literalForm>
+		<skosxl:literalForm xml:lang="es">Planificación del transporte y aspectos sociales del transporte</skosxl:literalForm>
 	</rdf:Description>
 	
 
@@ -11491,7 +12077,7 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 	
 
-	<!-- Filosofía, Historia de la ciencia y la tecnología, Filosofía de la ciencia y la tecnología -->
+	<!-- Filosofía                                                    -->
 	<!-- http://purl.org/pe-repo/ocde/ford#6.03.01                    -->
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.03.01">
@@ -11520,7 +12106,7 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.03.01_pref_label_es">
-		<skosxl:literalForm xml:lang="es">Filosofía, Historia de la ciencia y la tecnología, Filosofía de la ciencia y la tecnología</skosxl:literalForm>
+		<skosxl:literalForm xml:lang="es">Filosofía</skosxl:literalForm>
 	</rdf:Description>
 	
 
@@ -11534,12 +12120,12 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.03.01_pref_label_en">
-		<skosxl:literalForm xml:lang="en">Philosophy, History and philosophy of science and technology</skosxl:literalForm>
+		<skosxl:literalForm xml:lang="en">Philosophy</skosxl:literalForm>
 	</rdf:Description>
 	
 	
 
-	<!-- Ética                                                        -->
+	<!-- Historia y filosofía de la ciencia y la tecnología           -->
 	<!-- http://purl.org/pe-repo/ocde/ford#6.03.02                    -->
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.03.02">
@@ -11568,7 +12154,7 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.03.02_pref_label_es">
-		<skosxl:literalForm xml:lang="es">Ética</skosxl:literalForm>
+		<skosxl:literalForm xml:lang="es">Historia y filosofía de la ciencia y la tecnología</skosxl:literalForm>
 	</rdf:Description>
 	
 
@@ -11582,60 +12168,12 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.03.02_pref_label_en">
-		<skosxl:literalForm xml:lang="en">Ethics</skosxl:literalForm>
+		<skosxl:literalForm xml:lang="en">History and philosophy of science and technology</skosxl:literalForm>
 	</rdf:Description>
 	
 	
 
-	<!-- Teología                                                     -->
-	<!-- http://purl.org/pe-repo/ocde/ford#6.03.03                    -->
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.03.03">
-		<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.03.03">
-		<skos:inScheme rdf:resource="http://purl.org/pe-repo/ocde/ford"/>
-	</rdf:Description>
-
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.03.03">
-		<skos:broader rdf:resource="6.03.00"/>
-	</rdf:Description>
-	
-
-	
-
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.03.03">
-		<skosxl:prefLabel rdf:resource="http://purl.org/pe-repo/ocde/ford#6.03.03_pref_label_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.03.03_pref_label_es">
-		<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.03.03_pref_label_es">
-		<skosxl:literalForm xml:lang="es">Teología</skosxl:literalForm>
-	</rdf:Description>
-	
-
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.03.03">
-		<skosxl:prefLabel rdf:resource="http://purl.org/pe-repo/ocde/ford#6.03.03_pref_label_en"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.03.03_pref_label_en">
-		<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.03.03_pref_label_en">
-		<skosxl:literalForm xml:lang="en">Theology</skosxl:literalForm>
-	</rdf:Description>
-	
-	
-
-	<!-- Estudios religiosos                                          -->
+	<!-- Ética                                                        -->
 	<!-- http://purl.org/pe-repo/ocde/ford#6.03.04                    -->
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.03.04">
@@ -11664,7 +12202,7 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.03.04_pref_label_es">
-		<skosxl:literalForm xml:lang="es">Estudios religiosos</skosxl:literalForm>
+		<skosxl:literalForm xml:lang="es">Ética</skosxl:literalForm>
 	</rdf:Description>
 	
 
@@ -11678,6 +12216,102 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.03.04_pref_label_en">
+		<skosxl:literalForm xml:lang="en">Ethics</skosxl:literalForm>
+	</rdf:Description>
+	
+	
+
+	<!-- Teología                                                     -->
+	<!-- http://purl.org/pe-repo/ocde/ford#6.03.05                    -->
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.03.05">
+		<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.03.05">
+		<skos:inScheme rdf:resource="http://purl.org/pe-repo/ocde/ford"/>
+	</rdf:Description>
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.03.05">
+		<skos:broader rdf:resource="6.03.00"/>
+	</rdf:Description>
+	
+
+	
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.03.05">
+		<skosxl:prefLabel rdf:resource="http://purl.org/pe-repo/ocde/ford#6.03.05_pref_label_es"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.03.05_pref_label_es">
+		<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.03.05_pref_label_es">
+		<skosxl:literalForm xml:lang="es">Teología</skosxl:literalForm>
+	</rdf:Description>
+	
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.03.05">
+		<skosxl:prefLabel rdf:resource="http://purl.org/pe-repo/ocde/ford#6.03.05_pref_label_en"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.03.05_pref_label_en">
+		<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.03.05_pref_label_en">
+		<skosxl:literalForm xml:lang="en">Theology</skosxl:literalForm>
+	</rdf:Description>
+	
+	
+
+	<!-- Estudios religiosos                                          -->
+	<!-- http://purl.org/pe-repo/ocde/ford#6.03.06                    -->
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.03.06">
+		<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.03.06">
+		<skos:inScheme rdf:resource="http://purl.org/pe-repo/ocde/ford"/>
+	</rdf:Description>
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.03.06">
+		<skos:broader rdf:resource="6.03.00"/>
+	</rdf:Description>
+	
+
+	
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.03.06">
+		<skosxl:prefLabel rdf:resource="http://purl.org/pe-repo/ocde/ford#6.03.06_pref_label_es"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.03.06_pref_label_es">
+		<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.03.06_pref_label_es">
+		<skosxl:literalForm xml:lang="es">Estudios religiosos</skosxl:literalForm>
+	</rdf:Description>
+	
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.03.06">
+		<skosxl:prefLabel rdf:resource="http://purl.org/pe-repo/ocde/ford#6.03.06_pref_label_en"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.03.06_pref_label_en">
+		<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.03.06_pref_label_en">
 		<skosxl:literalForm xml:lang="en">Religious studies</skosxl:literalForm>
 	</rdf:Description>
 	
@@ -11731,7 +12365,7 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	
 	
 
-	<!-- Arte, Historia del arte                                      -->
+	<!-- Arte                                                         -->
 	<!-- http://purl.org/pe-repo/ocde/ford#6.04.01                    -->
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.04.01">
@@ -11760,7 +12394,7 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.04.01_pref_label_es">
-		<skosxl:literalForm xml:lang="es">Arte, Historia del arte</skosxl:literalForm>
+		<skosxl:literalForm xml:lang="es">Arte</skosxl:literalForm>
 	</rdf:Description>
 	
 
@@ -11774,12 +12408,12 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.04.01_pref_label_en">
-		<skosxl:literalForm xml:lang="en">Arts, Art history</skosxl:literalForm>
+		<skosxl:literalForm xml:lang="en">Arts</skosxl:literalForm>
 	</rdf:Description>
 	
 	
 
-	<!-- Diseño arquitectónico                                        -->
+	<!-- Historia del arte                                            -->
 	<!-- http://purl.org/pe-repo/ocde/ford#6.04.02                    -->
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.04.02">
@@ -11808,7 +12442,7 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.04.02_pref_label_es">
-		<skosxl:literalForm xml:lang="es">Diseño arquitectónico</skosxl:literalForm>
+		<skosxl:literalForm xml:lang="es">Historia del arte</skosxl:literalForm>
 	</rdf:Description>
 	
 
@@ -11822,12 +12456,12 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.04.02_pref_label_en">
-		<skosxl:literalForm xml:lang="en">Architectural design</skosxl:literalForm>
+		<skosxl:literalForm xml:lang="en">Art history</skosxl:literalForm>
 	</rdf:Description>
 	
 	
 
-	<!-- Artes escénicas                                              -->
+	<!-- Diseño arquitectónico                                        -->
 	<!-- http://purl.org/pe-repo/ocde/ford#6.04.03                    -->
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.04.03">
@@ -11856,7 +12490,7 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.04.03_pref_label_es">
-		<skosxl:literalForm xml:lang="es">Artes escénicas</skosxl:literalForm>
+		<skosxl:literalForm xml:lang="es">Diseño arquitectónico</skosxl:literalForm>
 	</rdf:Description>
 	
 
@@ -11870,12 +12504,12 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.04.03_pref_label_en">
-		<skosxl:literalForm xml:lang="en">Performing arts studies</skosxl:literalForm>
+		<skosxl:literalForm xml:lang="en">Architectural design</skosxl:literalForm>
 	</rdf:Description>
 	
 	
 
-	<!-- Estudio del folklore                                         -->
+	<!-- Artes de la representación (musicología, ciencias del teatro, dramaturgia) -->
 	<!-- http://purl.org/pe-repo/ocde/ford#6.04.04                    -->
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.04.04">
@@ -11904,7 +12538,7 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.04.04_pref_label_es">
-		<skosxl:literalForm xml:lang="es">Estudio del folklore</skosxl:literalForm>
+		<skosxl:literalForm xml:lang="es">Artes de la representación (musicología, ciencias del teatro, dramaturgia)</skosxl:literalForm>
 	</rdf:Description>
 	
 
@@ -11918,12 +12552,12 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.04.04_pref_label_en">
-		<skosxl:literalForm xml:lang="en">Folklore studies</skosxl:literalForm>
+		<skosxl:literalForm xml:lang="en">Performing arts studies</skosxl:literalForm>
 	</rdf:Description>
 	
 	
 
-	<!-- Estudios en cine, Estudios en radio, Estudios en televisión  -->
+	<!-- Estudio del folklore                                         -->
 	<!-- http://purl.org/pe-repo/ocde/ford#6.04.05                    -->
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.04.05">
@@ -11952,7 +12586,7 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.04.05_pref_label_es">
-		<skosxl:literalForm xml:lang="es">Estudios en cine, Estudios en radio, Estudios en televisión</skosxl:literalForm>
+		<skosxl:literalForm xml:lang="es">Estudio del folklore</skosxl:literalForm>
 	</rdf:Description>
 	
 
@@ -11966,12 +12600,12 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.04.05_pref_label_en">
-		<skosxl:literalForm xml:lang="en">Studies on Film, Radio and Television</skosxl:literalForm>
+		<skosxl:literalForm xml:lang="en">Folklore studies</skosxl:literalForm>
 	</rdf:Description>
 	
 	
 
-	<!-- Música                                                       -->
+	<!-- Estudios en cine, Estudios en radio, Estudios en televisión  -->
 	<!-- http://purl.org/pe-repo/ocde/ford#6.04.06                    -->
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.04.06">
@@ -12000,7 +12634,7 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.04.06_pref_label_es">
-		<skosxl:literalForm xml:lang="es">Música</skosxl:literalForm>
+		<skosxl:literalForm xml:lang="es">Estudios en cine, Estudios en radio, Estudios en televisión</skosxl:literalForm>
 	</rdf:Description>
 	
 
@@ -12014,8 +12648,128 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	</rdf:Description>
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.04.06_pref_label_en">
+		<skosxl:literalForm xml:lang="en">Studies on Film, Radio and Television</skosxl:literalForm>
+	</rdf:Description>
+	
+	
+
+	<!-- Música                                                       -->
+	<!-- http://purl.org/pe-repo/ocde/ford#6.04.07                    -->
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.04.07">
+		<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.04.07">
+		<skos:inScheme rdf:resource="http://purl.org/pe-repo/ocde/ford"/>
+	</rdf:Description>
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.04.07">
+		<skos:broader rdf:resource="6.04.00"/>
+	</rdf:Description>
+	
+
+	
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.04.07">
+		<skosxl:prefLabel rdf:resource="http://purl.org/pe-repo/ocde/ford#6.04.07_pref_label_es"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.04.07_pref_label_es">
+		<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.04.07_pref_label_es">
+		<skosxl:literalForm xml:lang="es">Música</skosxl:literalForm>
+	</rdf:Description>
+	
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.04.07">
+		<skosxl:prefLabel rdf:resource="http://purl.org/pe-repo/ocde/ford#6.04.07_pref_label_en"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.04.07_pref_label_en">
+		<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.04.07_pref_label_en">
 		<skosxl:literalForm xml:lang="en">Music</skosxl:literalForm>
 	</rdf:Description>
+	
+	
+
+	<!-- Arquitectura y urbanismo                                     -->
+	<!-- http://purl.org/pe-repo/ocde/ford#6.04.08                    -->
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.04.08">
+		<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.04.08">
+		<skos:inScheme rdf:resource="http://purl.org/pe-repo/ocde/ford"/>
+	</rdf:Description>
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.04.08">
+		<skos:broader rdf:resource="6.04.00"/>
+	</rdf:Description>
+	
+
+	
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.04.08">
+		<skosxl:prefLabel rdf:resource="http://purl.org/pe-repo/ocde/ford#6.04.08_pref_label_es"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.04.08_pref_label_es">
+		<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.04.08_pref_label_es">
+		<skosxl:literalForm xml:lang="es">Arquitectura y urbanismo</skosxl:literalForm>
+	</rdf:Description>
+	
+
+	
+	
+
+	<!-- Diseño industrial y otros diseños                            -->
+	<!-- http://purl.org/pe-repo/ocde/ford#6.04.09                    -->
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.04.09">
+		<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.04.09">
+		<skos:inScheme rdf:resource="http://purl.org/pe-repo/ocde/ford"/>
+	</rdf:Description>
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.04.09">
+		<skos:broader rdf:resource="6.04.00"/>
+	</rdf:Description>
+	
+
+	
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.04.09">
+		<skosxl:prefLabel rdf:resource="http://purl.org/pe-repo/ocde/ford#6.04.09_pref_label_es"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.04.09_pref_label_es">
+		<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.04.09_pref_label_es">
+		<skosxl:literalForm xml:lang="es">Diseño industrial y otros diseños</skosxl:literalForm>
+	</rdf:Description>
+	
+
 	
 	
 
@@ -12064,6 +12818,42 @@ Ingeniería de la construcción, Ingeniería urbana, Ingeniería estructural</sk
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.05.00_pref_label_en">
 		<skosxl:literalForm xml:lang="en">Other Humanities</skosxl:literalForm>
 	</rdf:Description>
+	
+	
+
+	<!-- Otras humanidades                                            -->
+	<!-- http://purl.org/pe-repo/ocde/ford#6.05.01                    -->
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.05.01">
+		<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.05.01">
+		<skos:inScheme rdf:resource="http://purl.org/pe-repo/ocde/ford"/>
+	</rdf:Description>
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.05.01">
+		<skos:broader rdf:resource="6.05.00"/>
+	</rdf:Description>
+	
+
+	
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.05.01">
+		<skosxl:prefLabel rdf:resource="http://purl.org/pe-repo/ocde/ford#6.05.01_pref_label_es"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.05.01_pref_label_es">
+		<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/ford#6.05.01_pref_label_es">
+		<skosxl:literalForm xml:lang="es">Otras humanidades</skosxl:literalForm>
+	</rdf:Description>
+	
+
 	
 	
 
