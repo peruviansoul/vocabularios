@@ -12,7 +12,7 @@ Versión 0.1 (borrador) - [SKOS-XML](ocde_sectorInstitucional.xml) \| [HTML](htt
 
 ### Tipos de actividades y proyectos en ciencia, tecnología e innovación según Manuales de Frascati y Oslo (OCDE)
 
-Versión 0.1 (borrador) - [SKOS-XML](ocde_tipoProyecto.xml) \| [HTML](https://concytec-pe.github.io/vocabularios/ocde_tipoProyecto.html)
+Versión 0.2 (borrador) - [SKOS-XML](ocde_tipoProyecto.xml) \| [HTML](https://concytec-pe.github.io/vocabularios/ocde_tipoProyecto.html)
 
 ### Tipos de instituciones de enseñanza superior (SUNEDU)
 
