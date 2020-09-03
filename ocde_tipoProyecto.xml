@@ -17,58 +17,61 @@
 </rdf:Description>
 
 
-	<!-- Investigación científica                                     -->
-	<!-- http://purl.org/pe-repo/ocde/tipoProyecto#investigacionCientifica -->
+	<!-- Investigación y desarrollo experimental                      -->
+	<!-- http://purl.org/pe-repo/ocde/tipoProyecto#investigacionYDesarrolloExperimental -->
 
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/tipoProyecto#investigacionCientifica">
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/tipoProyecto#investigacionYDesarrolloExperimental">
 		<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	</rdf:Description>
 
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/tipoProyecto#investigacionCientifica">
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/tipoProyecto#investigacionYDesarrolloExperimental">
 		<skos:inScheme rdf:resource="http://purl.org/pe-repo/ocde/tipoProyecto"/>
 	</rdf:Description>
 
 	   
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/tipoProyecto#investigacionCientifica">
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/tipoProyecto#investigacionYDesarrolloExperimental">
 		<skos:topConceptOf rdf:resource="http://purl.org/pe-repo/ocde/tipoProyecto"/>
 	</rdf:Description>
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/tipoProyecto#investigacionCientifica">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/tipoProyecto#investigacionCientifica_def_es"/>
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/tipoProyecto#investigacionYDesarrolloExperimental">
+		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/tipoProyecto#investigacionYDesarrolloExperimental_def_es"/>
 	</rdf:Description>
 
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/tipoProyecto#investigacionCientifica_def_es">
-		<rdf:value xml:lang="es">Trabajos creativos y sistemáticos realizados con el objetivo de aumentar el volumen de conocimiento (incluyendo el conocimiento de la humanidad, la cultura y la sociedad) y concebir nuevas aplicaciones a partir del conocimiento disponible. Basado en Manual de Frascati.</rdf:value>
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/tipoProyecto#investigacionYDesarrolloExperimental_def_es">
+		<rdf:value xml:lang="es">La I+D (investigación y desarrollo experimental) comprende el 
+trabajo creativo y sistemático realizado con el objetivo de aumentar el volumen 
+de conocimiento (incluyendo el conocimiento de la humanidad, la cultura y la 
+sociedad) y concebir nuevas aplicaciones a partir del conocimiento disponible. Basado en Manual de Frascati.</rdf:value>
 	</rdf:Description>
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/tipoProyecto#investigacionCientifica">
-		<skosxl:prefLabel rdf:resource="http://purl.org/pe-repo/ocde/tipoProyecto#investigacionCientifica_pref_label_es"/>
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/tipoProyecto#investigacionYDesarrolloExperimental">
+		<skosxl:prefLabel rdf:resource="http://purl.org/pe-repo/ocde/tipoProyecto#investigacionYDesarrolloExperimental_pref_label_es"/>
 	</rdf:Description>
 
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/tipoProyecto#investigacionCientifica_pref_label_es">
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/tipoProyecto#investigacionYDesarrolloExperimental_pref_label_es">
 		<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
 	</rdf:Description>
 
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/tipoProyecto#investigacionCientifica_pref_label_es">
-		<skosxl:literalForm xml:lang="es">Investigación científica</skosxl:literalForm>
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/tipoProyecto#investigacionYDesarrolloExperimental_pref_label_es">
+		<skosxl:literalForm xml:lang="es">Investigación y desarrollo experimental</skosxl:literalForm>
 	</rdf:Description>
 	
 
 	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/tipoProyecto#investigacionCientifica">
-		<skosxl:prefLabel rdf:resource="http://purl.org/pe-repo/ocde/tipoProyecto#investigacionCientifica_pref_label_en"/>
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/tipoProyecto#investigacionYDesarrolloExperimental">
+		<skosxl:prefLabel rdf:resource="http://purl.org/pe-repo/ocde/tipoProyecto#investigacionYDesarrolloExperimental_pref_label_en"/>
 	</rdf:Description>
 
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/tipoProyecto#investigacionCientifica_pref_label_en">
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/tipoProyecto#investigacionYDesarrolloExperimental_pref_label_en">
 		<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
 	</rdf:Description>
 
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/tipoProyecto#investigacionCientifica_pref_label_en">
-		<skosxl:literalForm xml:lang="en">Scientific investigation</skosxl:literalForm>
+	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/tipoProyecto#investigacionYDesarrolloExperimental_pref_label_en">
+		<skosxl:literalForm xml:lang="en">Research and experimental development</skosxl:literalForm>
 	</rdf:Description>
 	
 	
@@ -86,7 +89,7 @@
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/tipoProyecto#investigacionBasica">
-		<skos:broader rdf:resource="investigacionCientifica"/>
+		<skos:broader rdf:resource="investigacionYDesarrolloExperimental"/>
 	</rdf:Description>
 	
 
@@ -145,7 +148,7 @@ ninguna aplicación o utilización determinada. Basado en Manual de Frascati.</r
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/tipoProyecto#investigacionAplicada">
-		<skos:broader rdf:resource="investigacionCientifica"/>
+		<skos:broader rdf:resource="investigacionYDesarrolloExperimental"/>
 	</rdf:Description>
 	
 
@@ -201,7 +204,7 @@ ninguna aplicación o utilización determinada. Basado en Manual de Frascati.</r
 
 	
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/tipoProyecto#desarrolloExperimental">
-		<skos:broader rdf:resource="investigacionCientifica"/>
+		<skos:broader rdf:resource="investigacionYDesarrolloExperimental"/>
 	</rdf:Description>
 	
 
@@ -240,62 +243,6 @@ ninguna aplicación o utilización determinada. Basado en Manual de Frascati.</r
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/tipoProyecto#desarrolloExperimental_pref_label_en">
 		<skosxl:literalForm xml:lang="en">Experimental development</skosxl:literalForm>
-	</rdf:Description>
-	
-	
-
-	<!-- Desarrollo tecnológico                                       -->
-	<!-- http://purl.org/pe-repo/ocde/tipoProyecto#desarrolloTecnologico -->
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/tipoProyecto#desarrolloTecnologico">
-		<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/tipoProyecto#desarrolloTecnologico">
-		<skos:inScheme rdf:resource="http://purl.org/pe-repo/ocde/tipoProyecto"/>
-	</rdf:Description>
-
-	   
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/tipoProyecto#desarrolloTecnologico">
-		<skos:topConceptOf rdf:resource="http://purl.org/pe-repo/ocde/tipoProyecto"/>
-	</rdf:Description>
-	
-
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/tipoProyecto#desarrolloTecnologico">
-		<skos:definition rdf:resource="http://purl.org/pe-repo/ocde/tipoProyecto#desarrolloTecnologico_def_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/tipoProyecto#desarrolloTecnologico_def_es">
-		<rdf:value xml:lang="es">Aplicación de los resultados de la investigación, o de cualquier otro tipo de conocimiento científico, para la fabricación de nuevos materiales, productos, para el diseño de nuevos procesos, sistemas de producción o prestación servicios, así como la mejora tecnológica sustancial de materiales, productos, procesos o sistemas preexistentes. Esta actividad incluirá la materialización de los resultados de la investigación en un plano, esquema o diseño, así como la creación de prototipos no comercializable y los proyectos de demostración inicial o proyectos piloto, siempre que los mismos no se conviertan o utilicen en aplicaciones industriales o para su explotación comercial. Basado en Gestión de la I+D+i:Norma UNE 166002:2006.</rdf:value>
-	</rdf:Description>
-	
-
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/tipoProyecto#desarrolloTecnologico">
-		<skosxl:prefLabel rdf:resource="http://purl.org/pe-repo/ocde/tipoProyecto#desarrolloTecnologico_pref_label_es"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/tipoProyecto#desarrolloTecnologico_pref_label_es">
-		<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/tipoProyecto#desarrolloTecnologico_pref_label_es">
-		<skosxl:literalForm xml:lang="es">Desarrollo tecnológico</skosxl:literalForm>
-	</rdf:Description>
-	
-
-	
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/tipoProyecto#desarrolloTecnologico">
-		<skosxl:prefLabel rdf:resource="http://purl.org/pe-repo/ocde/tipoProyecto#desarrolloTecnologico_pref_label_en"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/tipoProyecto#desarrolloTecnologico_pref_label_en">
-		<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
-	</rdf:Description>
-
-	<rdf:Description rdf:about="http://purl.org/pe-repo/ocde/tipoProyecto#desarrolloTecnologico_pref_label_en">
-		<skosxl:literalForm xml:lang="en">Technological development</skosxl:literalForm>
 	</rdf:Description>
 	
 	

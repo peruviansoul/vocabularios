@@ -73,13 +73,12 @@ table.ABOUT {
         </tr>
         <tr>
           <td class="FIELD-HEADERS">description:</td>
-          <td class="FIELD-VALUE">Tipos de actividades y proyectos en ciencia, tecnología e innovación. 
-Un proyecto se define, según el Project Management Institute, como el esfuerzo temporal emprendido para crear un producto, servicio o resultado único. En el ámbito de la investigación, se consideran proyectos de investigación científica, proyectos de desarrollo tecnológico y proyectos de innovación. 
+          <td class="FIELD-VALUE">Tipos de actividades y proyectos en ciencia, tecnología e innovación según Manuales de Frascati y Oslo (OCDE). 
+Un proyecto se define, según el Project Management Institute, como el esfuerzo temporal emprendido para crear un producto, servicio o resultado único. En el ámbito de la investigación, se consideran proyectos de investigación científica, proyectos de desarrollo tecnológico y proyectos de innovación. (Fuente: OpenAire Guidelines for CRIS Managers v.1.1.1) 
 Para la elaboración del presente vocabulario, se ha tomado como fuentes:
 - OCDE (2018.) Manual de Frascati 2015: guía para la recopilación y presentación de información sobre la investigación y el desarrollo experimental.
 - OECD/Eurostat (2018).Oslo Manual 2018: Guidelines for collecting, reporting and using data on innovation. 4th edittion.
-- Herrera, L. y Gutiérrez, E. (2008). Gestión de la I+D+i:Norma UNE 166002:2006. Recuperado de: https://www.aec.es/c/document_library/get_file?uuid=da47d353-2a1b-4c61-a09f-3bd16d5d9374&amp;groupId=10128
-- OpenAire (2019). OpenAire Guidelines for CRIS Managers.</td>
+</td>
         </tr>
         <tr>
           <td class="FIELD-HEADERS">creator:</td>
@@ -87,7 +86,7 @@ Para la elaboración del presente vocabulario, se ha tomado como fuentes:
         </tr>
         <tr>
           <td class="FIELD-HEADERS">version:</td>
-          <td class="FIELD-VALUE">0.1 (draft)</td>
+          <td class="FIELD-VALUE">0.2 (draft)</td>
         </tr>
         <tr>
           <td class="FIELD-HEADERS">license:</td>
@@ -102,7 +101,7 @@ Para la elaboración del presente vocabulario, se ha tomado como fuentes:
     <ul>
 		
     <li>
-         <a href="#investigacionCientifica">  Investigación científica</a>
+         <a href="#investigacionYDesarrolloExperimental">  Investigación y desarrollo experimental</a>
         
             <ul>
                 
@@ -124,11 +123,6 @@ Para la elaboración del presente vocabulario, se ha tomado como fuentes:
 
                 
             </ul>
-        
-    </li>
-
-    <li>
-         <a href="#desarrolloTecnologico">  Desarrollo tecnológico</a>
         
     </li>
 
@@ -209,26 +203,33 @@ Para la elaboración del presente vocabulario, se ha tomado como fuentes:
 
 
 	
-    <a id="investigacionCientifica"/>
-    <h2><a href="#top">⇑</a>  Investigación científica </h2>
+    <a id="investigacionYDesarrolloExperimental"/>
+    <h2><a href="#top">⇑</a>  Investigación y desarrollo experimental </h2>
     <table class="TERM">
       <tbody>
         <tr>
           <td class="CONCEPT-FIELD">URI</td>
-          <td class="conceptURI">http://purl.org/pe-repo/ocde/tipoProyecto#investigacionCientifica</td>
-        </tr>
-        <tr>
-          <td class="CONCEPT-FIELD">Definition (es)</td>
-          <td class="SN">Trabajos creativos y sistemáticos realizados con el objetivo de aumentar el volumen de conocimiento (incluyendo el conocimiento de la humanidad, la cultura y la sociedad) y concebir nuevas aplicaciones a partir del conocimiento disponible. Basado en Manual de Frascati.</td>
-        </tr>
-        <tr>
-          <td class="CONCEPT-FIELD">Preferred label (es)</td>
-          <td class="PREF">Investigación científica</td>
+          <td class="conceptURI">http://purl.org/pe-repo/ocde/tipoProyecto#investigacionYDesarrolloExperimental</td>
         </tr>
 	
         <tr>
+          <td class="CONCEPT-FIELD">Definition (es)</td>
+          <td class="SN">La I+D (investigación y desarrollo experimental) comprende el 
+trabajo creativo y sistemático realizado con el objetivo de aumentar el volumen 
+de conocimiento (incluyendo el conocimiento de la humanidad, la cultura y la 
+sociedad) y concebir nuevas aplicaciones a partir del conocimiento disponible. Basado en Manual de Frascati.</td>
+        </tr>
+	
+	
+        <tr>
+          <td class="CONCEPT-FIELD">Preferred label (es)</td>
+          <td class="PREF">Investigación y desarrollo experimental</td>
+        </tr>
+	
+	
+        <tr>
           <td class="CONCEPT-FIELD">Preferred label (en)</td>
-          <td class="PREF">Scientific investigation</td>
+          <td class="PREF">Research and experimental development</td>
         </tr>
 	
 	
@@ -243,6 +244,7 @@ Para la elaboración del presente vocabulario, se ha tomado como fuentes:
           <td class="CONCEPT-FIELD">URI</td>
           <td class="conceptURI">http://purl.org/pe-repo/ocde/tipoProyecto#investigacionBasica</td>
         </tr>
+	
         <tr>
           <td class="CONCEPT-FIELD">Definition (es)</td>
           <td class="SN">Trabajos experimentales o teóricos que se emprenden
@@ -250,10 +252,13 @@ fundamentalmente para obtener nuevos conocimientos acerca de los
 fundamentos de fenómenos y hechos observables, sin intención de otorgarles
 ninguna aplicación o utilización determinada. Basado en Manual de Frascati.</td>
         </tr>
+	
+	
         <tr>
           <td class="CONCEPT-FIELD">Preferred label (es)</td>
           <td class="PREF">Investigación básica</td>
         </tr>
+	
 	
         <tr>
           <td class="CONCEPT-FIELD">Preferred label (en)</td>
@@ -264,7 +269,7 @@ ninguna aplicación o utilización determinada. Basado en Manual de Frascati.</t
         <tr>
           <td class="CONCEPT-FIELD">Broader</td>
           <td class="URI">
-            <a href="#investigacionCientifica">http://purl.org/pe-repo/ocde/tipoProyecto#investigacionCientifica</a>
+            <a href="#investigacionYDesarrolloExperimental">http://purl.org/pe-repo/ocde/tipoProyecto#investigacionYDesarrolloExperimental</a>
           </td>
         </tr>
 	
@@ -279,14 +284,18 @@ ninguna aplicación o utilización determinada. Basado en Manual de Frascati.</t
           <td class="CONCEPT-FIELD">URI</td>
           <td class="conceptURI">http://purl.org/pe-repo/ocde/tipoProyecto#investigacionAplicada</td>
         </tr>
+	
         <tr>
           <td class="CONCEPT-FIELD">Definition (es)</td>
           <td class="SN">Trabajos originales realizados para adquirir nuevos conocimientos, dirigidos fundamentalmente hacia un objetivo práctico específico. Basado en Manual de Frascati.</td>
         </tr>
+	
+	
         <tr>
           <td class="CONCEPT-FIELD">Preferred label (es)</td>
           <td class="PREF">Investigación aplicada</td>
         </tr>
+	
 	
         <tr>
           <td class="CONCEPT-FIELD">Preferred label (en)</td>
@@ -297,7 +306,7 @@ ninguna aplicación o utilización determinada. Basado en Manual de Frascati.</t
         <tr>
           <td class="CONCEPT-FIELD">Broader</td>
           <td class="URI">
-            <a href="#investigacionCientifica">http://purl.org/pe-repo/ocde/tipoProyecto#investigacionCientifica</a>
+            <a href="#investigacionYDesarrolloExperimental">http://purl.org/pe-repo/ocde/tipoProyecto#investigacionYDesarrolloExperimental</a>
           </td>
         </tr>
 	
@@ -312,14 +321,18 @@ ninguna aplicación o utilización determinada. Basado en Manual de Frascati.</t
           <td class="CONCEPT-FIELD">URI</td>
           <td class="conceptURI">http://purl.org/pe-repo/ocde/tipoProyecto#desarrolloExperimental</td>
         </tr>
+	
         <tr>
           <td class="CONCEPT-FIELD">Definition (es)</td>
           <td class="SN">Trabajos sistemáticos fundamentados en los conocimientos existentes obtenidos a partir de la investigación o la experiencia práctica, que se dirigen a producir nuevos productos o procesos, o a mejorar los productos o procesos que ya existen. Basado en Manual de Frascati.</td>
         </tr>
+	
+	
         <tr>
           <td class="CONCEPT-FIELD">Preferred label (es)</td>
           <td class="PREF">Desarrollo experimental</td>
         </tr>
+	
 	
         <tr>
           <td class="CONCEPT-FIELD">Preferred label (en)</td>
@@ -330,35 +343,9 @@ ninguna aplicación o utilización determinada. Basado en Manual de Frascati.</t
         <tr>
           <td class="CONCEPT-FIELD">Broader</td>
           <td class="URI">
-            <a href="#investigacionCientifica">http://purl.org/pe-repo/ocde/tipoProyecto#investigacionCientifica</a>
+            <a href="#investigacionYDesarrolloExperimental">http://purl.org/pe-repo/ocde/tipoProyecto#investigacionYDesarrolloExperimental</a>
           </td>
         </tr>
-	
-      </tbody>
-    </table>
-	
-    <a id="desarrolloTecnologico"/>
-    <h2><a href="#top">⇑</a>  Desarrollo tecnológico </h2>
-    <table class="TERM">
-      <tbody>
-        <tr>
-          <td class="CONCEPT-FIELD">URI</td>
-          <td class="conceptURI">http://purl.org/pe-repo/ocde/tipoProyecto#desarrolloTecnologico</td>
-        </tr>
-        <tr>
-          <td class="CONCEPT-FIELD">Definition (es)</td>
-          <td class="SN">Aplicación de los resultados de la investigación, o de cualquier otro tipo de conocimiento científico, para la fabricación de nuevos materiales, productos, para el diseño de nuevos procesos, sistemas de producción o prestación servicios, así como la mejora tecnológica sustancial de materiales, productos, procesos o sistemas preexistentes. Esta actividad incluirá la materialización de los resultados de la investigación en un plano, esquema o diseño, así como la creación de prototipos no comercializable y los proyectos de demostración inicial o proyectos piloto, siempre que los mismos no se conviertan o utilicen en aplicaciones industriales o para su explotación comercial. Basado en Gestión de la I+D+i:Norma UNE 166002:2006.</td>
-        </tr>
-        <tr>
-          <td class="CONCEPT-FIELD">Preferred label (es)</td>
-          <td class="PREF">Desarrollo tecnológico</td>
-        </tr>
-	
-        <tr>
-          <td class="CONCEPT-FIELD">Preferred label (en)</td>
-          <td class="PREF">Technological development</td>
-        </tr>
-	
 	
       </tbody>
     </table>
@@ -371,14 +358,18 @@ ninguna aplicación o utilización determinada. Basado en Manual de Frascati.</t
           <td class="CONCEPT-FIELD">URI</td>
           <td class="conceptURI">http://purl.org/pe-repo/ocde/tipoProyecto#innovacionTecnologica</td>
         </tr>
+	
         <tr>
           <td class="CONCEPT-FIELD">Definition (es)</td>
           <td class="SN">Producto o proceso nuevo o mejorado (o una combinación de ellos) que difiere significativamente de los productos o procesos anteriores de la institución o empresa y que se ha puesto a disposición de los usuarios potenciales (producto) o se ha puesto en uso por la institución o empresa (proceso). Una innovación puede contener una convinación de diferentes tipos de productos o procesos. Basado en Manual de Oslo.</td>
         </tr>
+	
+	
         <tr>
           <td class="CONCEPT-FIELD">Preferred label (es)</td>
           <td class="PREF">Innovación tecnológica</td>
         </tr>
+	
 	
         <tr>
           <td class="CONCEPT-FIELD">Preferred label (en)</td>
@@ -397,14 +388,18 @@ ninguna aplicación o utilización determinada. Basado en Manual de Frascati.</t
           <td class="CONCEPT-FIELD">URI</td>
           <td class="conceptURI">http://purl.org/pe-repo/ocde/tipoProyecto#innovacionDeProducto</td>
         </tr>
+	
         <tr>
           <td class="CONCEPT-FIELD">Definition (es)</td>
           <td class="SN">Bien o servicio nuevo o mejorado que difiere significativamente de los bienes o servicios anteriores de la empresa y que se ha introducido en el mercado. Basado en Manual de Oslo.</td>
         </tr>
+	
+	
         <tr>
           <td class="CONCEPT-FIELD">Preferred label (es)</td>
           <td class="PREF">Innovación de producto</td>
         </tr>
+	
 	
         <tr>
           <td class="CONCEPT-FIELD">Preferred label (en)</td>
@@ -430,14 +425,18 @@ ninguna aplicación o utilización determinada. Basado en Manual de Frascati.</t
           <td class="CONCEPT-FIELD">URI</td>
           <td class="conceptURI">http://purl.org/pe-repo/ocde/tipoProyecto#innovacionDeBien</td>
         </tr>
+	
         <tr>
           <td class="CONCEPT-FIELD">Definition (es)</td>
           <td class="SN">Incluye objetos tangibles y algunos productos de gestión del conocimiento sobre los cuales se pueden establecer derechos de propiedad y cuya propiedad se puede transferir a través de transacciones de mercado. Basado en Manual de Oslo.</td>
         </tr>
+	
+	
         <tr>
           <td class="CONCEPT-FIELD">Preferred label (es)</td>
           <td class="PREF">Innovación de un bien</td>
         </tr>
+	
 	
         <tr>
           <td class="CONCEPT-FIELD">Preferred label (en)</td>
@@ -463,14 +462,18 @@ ninguna aplicación o utilización determinada. Basado en Manual de Frascati.</t
           <td class="CONCEPT-FIELD">URI</td>
           <td class="conceptURI">http://purl.org/pe-repo/ocde/tipoProyecto#innovacionDeServicio</td>
         </tr>
+	
         <tr>
           <td class="CONCEPT-FIELD">Definition (es)</td>
           <td class="SN">Son actividades intangibles que se producen y consumen simultáneamente y que cambian las condiciones (por ejemplo, físicas, psicológicas, etc.) de los usuarios. Basado en Manual de Oslo.</td>
         </tr>
+	
+	
         <tr>
           <td class="CONCEPT-FIELD">Preferred label (es)</td>
           <td class="PREF">Innovación de un servicio</td>
         </tr>
+	
 	
         <tr>
           <td class="CONCEPT-FIELD">Preferred label (en)</td>
@@ -496,14 +499,18 @@ ninguna aplicación o utilización determinada. Basado en Manual de Frascati.</t
           <td class="CONCEPT-FIELD">URI</td>
           <td class="conceptURI">http://purl.org/pe-repo/ocde/tipoProyecto#innovacionDeProcesoNegocio</td>
         </tr>
+	
         <tr>
           <td class="CONCEPT-FIELD">Definition (es)</td>
           <td class="SN">Es un proceso de negocio nuevo o mejorado para una o más funciones de la empresa, que difieren significativamente de los procesos de negocio anteriores y que se ha puesto en uso en la empresa. Basado en Manual de Oslo.</td>
         </tr>
+	
+	
         <tr>
           <td class="CONCEPT-FIELD">Preferred label (es)</td>
           <td class="PREF">Innovación de procesos de negocio</td>
         </tr>
+	
 	
         <tr>
           <td class="CONCEPT-FIELD">Preferred label (en)</td>
@@ -529,14 +536,18 @@ ninguna aplicación o utilización determinada. Basado en Manual de Frascati.</t
           <td class="CONCEPT-FIELD">URI</td>
           <td class="conceptURI">http://purl.org/pe-repo/ocde/tipoProyecto#innovacionEnProduccion</td>
         </tr>
+	
         <tr>
           <td class="CONCEPT-FIELD">Definition (es)</td>
           <td class="SN">Actividades que transforman insumos en bienes o servicios, incluidas las actividades de ingeniería, pruebas técnicas relacionadas, análisis y certificación para apoyar la producción. Basado en Manual de Oslo.</td>
         </tr>
+	
+	
         <tr>
           <td class="CONCEPT-FIELD">Preferred label (es)</td>
           <td class="PREF">Innovación en la producción de un bien o servicio</td>
         </tr>
+	
 	
         <tr>
           <td class="CONCEPT-FIELD">Preferred label (en)</td>
@@ -562,14 +573,18 @@ ninguna aplicación o utilización determinada. Basado en Manual de Frascati.</t
           <td class="CONCEPT-FIELD">URI</td>
           <td class="conceptURI">http://purl.org/pe-repo/ocde/tipoProyecto#innovacionEnDistribucionYLogistica</td>
         </tr>
+	
         <tr>
           <td class="CONCEPT-FIELD">Definition (es)</td>
           <td class="SN">Incluye transporte y prestación de servicios, almacenamiento, procesamiento de pedidos. Basado en Manual de Oslo.</td>
         </tr>
+	
+	
         <tr>
           <td class="CONCEPT-FIELD">Preferred label (es)</td>
           <td class="PREF">Innovación en la distribución y logística</td>
         </tr>
+	
 	
         <tr>
           <td class="CONCEPT-FIELD">Preferred label (en)</td>
@@ -595,14 +610,18 @@ ninguna aplicación o utilización determinada. Basado en Manual de Frascati.</t
           <td class="CONCEPT-FIELD">URI</td>
           <td class="conceptURI">http://purl.org/pe-repo/ocde/tipoProyecto#innovacionEnMercadotecniaYVentas</td>
         </tr>
+	
         <tr>
           <td class="CONCEPT-FIELD">Definition (es)</td>
           <td class="SN">Incluye métodos de mercadotecnia y publicidad (promoción y colocación de productos, empaque de productos), mercadotecnia directa (telemarketing), exposiciones y ferias, investigación de mercados y otras actividades para desarrollar nuevos mercados; estrategias y métodos de fijación de precios; actividades de ventas y postventa, incluidos los servicios de asistencia técnica y otras actividades de atención y relaciones con el cliente. Basado en Manual de Oslo.</td>
         </tr>
+	
+	
         <tr>
           <td class="CONCEPT-FIELD">Preferred label (es)</td>
           <td class="PREF">Innovación en mercadotecnia y ventas</td>
         </tr>
+	
 	
         <tr>
           <td class="CONCEPT-FIELD">Preferred label (en)</td>
@@ -628,14 +647,18 @@ ninguna aplicación o utilización determinada. Basado en Manual de Frascati.</t
           <td class="CONCEPT-FIELD">URI</td>
           <td class="conceptURI">http://purl.org/pe-repo/ocde/tipoProyecto#innovacionEnTIC</td>
         </tr>
+	
         <tr>
           <td class="CONCEPT-FIELD">Definition (es)</td>
           <td class="SN">Incluye el mantenimiento y suministro de sistemas de información y comunicación, como hardware y software, procesamiento de datos y base de datos, mantenimiento y reparación, alojamiento web y otras actividades de información informática. Basado en Manual de Oslo.</td>
         </tr>
+	
+	
         <tr>
           <td class="CONCEPT-FIELD">Preferred label (es)</td>
           <td class="PREF">Innovación en sistemas de información y comunicación</td>
         </tr>
+	
 	
         <tr>
           <td class="CONCEPT-FIELD">Preferred label (en)</td>
@@ -661,14 +684,18 @@ ninguna aplicación o utilización determinada. Basado en Manual de Frascati.</t
           <td class="CONCEPT-FIELD">URI</td>
           <td class="conceptURI">http://purl.org/pe-repo/ocde/tipoProyecto#innovacionEnAdministracionYGestion</td>
         </tr>
+	
         <tr>
           <td class="CONCEPT-FIELD">Definition (es)</td>
           <td class="SN">Incluye la gestión empresarial general y estratégica (toma de decisiones multifuncional), incluida la organización de responsabilidades laborales; gobierno corporativo (legal, planificación y relaciones públicas); contabilidad, auditoría, pagos y otras actividades financieras o de seguros; gestión de recursos humanos (capacitación y educación, contratación de personal, organización del lugar de trabajo, provisión de personal temporal, gestión de la nómina, asistencia sanitaria y médica), adquisición; gestión de relaciones externas con proveedores, alianzas, etc. Basado en Manula de Oslo.</td>
         </tr>
+	
+	
         <tr>
           <td class="CONCEPT-FIELD">Preferred label (es)</td>
           <td class="PREF">Innovación en administración y gestión</td>
         </tr>
+	
 	
         <tr>
           <td class="CONCEPT-FIELD">Preferred label (en)</td>
@@ -694,14 +721,18 @@ ninguna aplicación o utilización determinada. Basado en Manual de Frascati.</t
           <td class="CONCEPT-FIELD">URI</td>
           <td class="conceptURI">http://purl.org/pe-repo/ocde/tipoProyecto#innovacionEnProductosYProcesosNegocio</td>
         </tr>
+	
         <tr>
           <td class="CONCEPT-FIELD">Definition (es)</td>
           <td class="SN">Actividades para determinar, identificar, desarrollar o adaptar productos o procesos de negocios de una empresa. Puede llevarse a cabo de manera sistemática o Ad hoc, y se puede realizar dentro de la firma o por fuentes externas. La responsabilidad de estas actividades puede estar dentro de una división separada o en divisiones responsables de otras funciones, por ejemplo, produccion de bienes o servicios. Basado en Manual de Oslo.</td>
         </tr>
+	
+	
         <tr>
           <td class="CONCEPT-FIELD">Preferred label (es)</td>
           <td class="PREF">Innovación en el desarrollo de producto y procesos de negocio</td>
         </tr>
+	
 	
         <tr>
           <td class="CONCEPT-FIELD">Preferred label (en)</td>
