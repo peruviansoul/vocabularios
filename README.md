@@ -30,3 +30,6 @@ Versión 0.2 (borrador) - [SKOS-XML](renati_type.xml) \| [HTML](https://concytec
 
 Versión 0.1 (borrador) - [SKOS-XML](concytec_equipamiento.xml) \| [HTML](https://concytec-pe.github.io/vocabularios/concytec_equipamiento.html)
 
+### Términos para la plataforma #PerúCRIS (CONCYTEC)
+
+Versión 0.1 (borrador) - [SKOS-XML](concytec_terminos.xml) \| [HTML](https://concytec-pe.github.io/vocabularios/concytec_terminos.html)

@@ -1,0 +1,1311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns="http://purl.org/pe-repo/concytec/terminos"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:skosxl="http://www.w3.org/2008/05/skos-xl#"
+	xmlns:sw-vocab="http://www.w3.org/2003/06/sw-vocab-status/ns#"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
+</rdf:Description>
+
+
+	<!-- Investigador o innovador miembro                             -->
+	<!-- http://purl.org/pe-repo/concytec/terminos#investigadorOInnovadorMiembro -->
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#investigadorOInnovadorMiembro">
+		<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#investigadorOInnovadorMiembro">
+		<skos:inScheme rdf:resource="http://purl.org/pe-repo/concytec/terminos"/>
+	</rdf:Description>
+
+	   
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#investigadorOInnovadorMiembro">
+		<skos:topConceptOf rdf:resource="http://purl.org/pe-repo/concytec/terminos"/>
+	</rdf:Description>
+	
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#investigadorOInnovadorMiembro">
+		<skos:definition rdf:resource="http://purl.org/pe-repo/concytec/terminos#investigadorOInnovadorMiembro_def_es"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#investigadorOInnovadorMiembro_def_es">
+		<rdf:value xml:lang="es">Utilice para identificar el rol de un investigador como miembro del equipo del proyecto. Metadato: Proyecto.Equipo investigador o innovador.Otros miembros del equipo (Project.Team.Member). Se considera a los investigadores o innovadores (aparte del principal) que participan directamente en la concepción o creación de nuevo conocimiento, productos o procesos de negocio, tales como: investigadores asociados, co-investigadores, innovadores, desarrolladores tecnológicos. Pueden dedicarse al proyecto a tiempo completo o parcial. Se consideran también a gestores y administradores encargados de planificar y gestionar los aspectos científicos y técnicos del trabajo y, por cuestiones prácticas a los estudiantes de doctorado que participan en I+D+i. Fuente: adaptado de Manual de Frascati.
+</rdf:value>
+	</rdf:Description>
+	
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#investigadorOInnovadorMiembro">
+		<skosxl:prefLabel rdf:resource="http://purl.org/pe-repo/concytec/terminos#investigadorOInnovadorMiembro_pref_label_es"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#investigadorOInnovadorMiembro_pref_label_es">
+		<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#investigadorOInnovadorMiembro_pref_label_es">
+		<skosxl:literalForm xml:lang="es">Investigador o innovador miembro</skosxl:literalForm>
+	</rdf:Description>
+	
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#investigadorOInnovadorMiembro">
+		<skosxl:prefLabel rdf:resource="http://purl.org/pe-repo/concytec/terminos#investigadorOInnovadorMiembro_pref_label_en"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#investigadorOInnovadorMiembro_pref_label_en">
+		<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#investigadorOInnovadorMiembro_pref_label_en">
+		<skosxl:literalForm xml:lang="en">Researcher or innovator member</skosxl:literalForm>
+	</rdf:Description>
+	
+	
+
+	<!-- Técnicos y personal equivalente                              -->
+	<!-- http://purl.org/pe-repo/concytec/terminos#tecnicosYPersonalEquivalente -->
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#tecnicosYPersonalEquivalente">
+		<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#tecnicosYPersonalEquivalente">
+		<skos:inScheme rdf:resource="http://purl.org/pe-repo/concytec/terminos"/>
+	</rdf:Description>
+
+	   
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#tecnicosYPersonalEquivalente">
+		<skos:topConceptOf rdf:resource="http://purl.org/pe-repo/concytec/terminos"/>
+	</rdf:Description>
+	
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#tecnicosYPersonalEquivalente">
+		<skos:definition rdf:resource="http://purl.org/pe-repo/concytec/terminos#tecnicosYPersonalEquivalente_def_es"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#tecnicosYPersonalEquivalente_def_es">
+		<rdf:value xml:lang="es">Utilice para identificar el rol de un investigador como miembro del equipo del proyecto. Metadato: Proyecto.Equipo investigador o innovador.Otros miembros del equipo (Project.Team.Member). Personal cuyas principales tareas requieren de conocimiento técnico y experiencia. Participan en I+D+i realizando tareas técnicas en la aplicación de conceptos y métodos operativos y usando equipos e investigación, normalmente bajo la supervisión de los investigadores o innovadores. Fuente: adaptado de Manual de Frascati.</rdf:value>
+	</rdf:Description>
+	
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#tecnicosYPersonalEquivalente">
+		<skosxl:prefLabel rdf:resource="http://purl.org/pe-repo/concytec/terminos#tecnicosYPersonalEquivalente_pref_label_es"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#tecnicosYPersonalEquivalente_pref_label_es">
+		<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#tecnicosYPersonalEquivalente_pref_label_es">
+		<skosxl:literalForm xml:lang="es">Técnicos y personal equivalente</skosxl:literalForm>
+	</rdf:Description>
+	
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#tecnicosYPersonalEquivalente">
+		<skosxl:prefLabel rdf:resource="http://purl.org/pe-repo/concytec/terminos#tecnicosYPersonalEquivalente_pref_label_en"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#tecnicosYPersonalEquivalente_pref_label_en">
+		<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#tecnicosYPersonalEquivalente_pref_label_en">
+		<skosxl:literalForm xml:lang="en">Technicians and equivalent personnel</skosxl:literalForm>
+	</rdf:Description>
+	
+	
+
+	<!-- Personal auxiliar o de apoyo                                 -->
+	<!-- http://purl.org/pe-repo/concytec/terminos#personalAuxiliarODeApoyo -->
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#personalAuxiliarODeApoyo">
+		<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#personalAuxiliarODeApoyo">
+		<skos:inScheme rdf:resource="http://purl.org/pe-repo/concytec/terminos"/>
+	</rdf:Description>
+
+	   
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#personalAuxiliarODeApoyo">
+		<skos:topConceptOf rdf:resource="http://purl.org/pe-repo/concytec/terminos"/>
+	</rdf:Description>
+	
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#personalAuxiliarODeApoyo">
+		<skos:definition rdf:resource="http://purl.org/pe-repo/concytec/terminos#personalAuxiliarODeApoyo_def_es"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#personalAuxiliarODeApoyo_def_es">
+		<rdf:value xml:lang="es">Utilice para identificar el rol de un investigador como miembro del equipo del proyecto. Metadato: Proyecto.Equipo investigador o innovador.Otros miembros del equipo (Project.Team.Member). Incluye a operarios, cualificados o no, administrativos, secretarios y oficinistas que participan en proyectos I+D+i, o están directamente vinculados a dichos proyectos. El personal auxiliar o de apoyo engloba un gran número determinado de tareas y habilidades. En principio, toda actividad que contribuya directamente a la realización de I+D+i que no es ejecutada por investigadores y técnicos es llevada a cabo por el personal auxiliar o de apoyo. Fuente: adaptado de Manual de Frascati.</rdf:value>
+	</rdf:Description>
+	
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#personalAuxiliarODeApoyo">
+		<skosxl:prefLabel rdf:resource="http://purl.org/pe-repo/concytec/terminos#personalAuxiliarODeApoyo_pref_label_es"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#personalAuxiliarODeApoyo_pref_label_es">
+		<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#personalAuxiliarODeApoyo_pref_label_es">
+		<skosxl:literalForm xml:lang="es">Personal auxiliar o de apoyo</skosxl:literalForm>
+	</rdf:Description>
+	
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#personalAuxiliarODeApoyo">
+		<skosxl:prefLabel rdf:resource="http://purl.org/pe-repo/concytec/terminos#personalAuxiliarODeApoyo_pref_label_en"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#personalAuxiliarODeApoyo_pref_label_en">
+		<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#personalAuxiliarODeApoyo_pref_label_en">
+		<skosxl:literalForm xml:lang="en">Auxiliary or support staff</skosxl:literalForm>
+	</rdf:Description>
+	
+	
+
+	<!-- Activo                                                       -->
+	<!-- http://purl.org/pe-repo/concytec/terminos#activo             -->
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#activo">
+		<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#activo">
+		<skos:inScheme rdf:resource="http://purl.org/pe-repo/concytec/terminos"/>
+	</rdf:Description>
+
+	   
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#activo">
+		<skos:topConceptOf rdf:resource="http://purl.org/pe-repo/concytec/terminos"/>
+	</rdf:Description>
+	
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#activo">
+		<skos:definition rdf:resource="http://purl.org/pe-repo/concytec/terminos#activo_def_es"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#activo_def_es">
+		<rdf:value xml:lang="es">Utilice para establecer el estado de un proyecto cuando este se encuentra aprobado o en curso. Metadato: Proyecto.Estado (Proyect.Status).</rdf:value>
+	</rdf:Description>
+	
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#activo">
+		<skosxl:prefLabel rdf:resource="http://purl.org/pe-repo/concytec/terminos#activo_pref_label_es"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#activo_pref_label_es">
+		<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#activo_pref_label_es">
+		<skosxl:literalForm xml:lang="es">Activo</skosxl:literalForm>
+	</rdf:Description>
+	
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#activo">
+		<skosxl:prefLabel rdf:resource="http://purl.org/pe-repo/concytec/terminos#activo_pref_label_en"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#activo_pref_label_en">
+		<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#activo_pref_label_en">
+		<skosxl:literalForm xml:lang="en">Active</skosxl:literalForm>
+	</rdf:Description>
+	
+	
+
+	<!-- Suspendido                                                   -->
+	<!-- http://purl.org/pe-repo/concytec/terminos#suspendido         -->
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#suspendido">
+		<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#suspendido">
+		<skos:inScheme rdf:resource="http://purl.org/pe-repo/concytec/terminos"/>
+	</rdf:Description>
+
+	   
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#suspendido">
+		<skos:topConceptOf rdf:resource="http://purl.org/pe-repo/concytec/terminos"/>
+	</rdf:Description>
+	
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#suspendido">
+		<skos:definition rdf:resource="http://purl.org/pe-repo/concytec/terminos#suspendido_def_es"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#suspendido_def_es">
+		<rdf:value xml:lang="es">Utilice para establecer el estado de un proyecto cuando este se encuentre interrumpido o anulado. Metadato: Proyecto.Estado (Proyect.Status).</rdf:value>
+	</rdf:Description>
+	
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#suspendido">
+		<skosxl:prefLabel rdf:resource="http://purl.org/pe-repo/concytec/terminos#suspendido_pref_label_es"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#suspendido_pref_label_es">
+		<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#suspendido_pref_label_es">
+		<skosxl:literalForm xml:lang="es">Suspendido</skosxl:literalForm>
+	</rdf:Description>
+	
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#suspendido">
+		<skosxl:prefLabel rdf:resource="http://purl.org/pe-repo/concytec/terminos#suspendido_pref_label_en"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#suspendido_pref_label_en">
+		<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#suspendido_pref_label_en">
+		<skosxl:literalForm xml:lang="en">Suspended</skosxl:literalForm>
+	</rdf:Description>
+	
+	
+
+	<!-- Concluido                                                    -->
+	<!-- http://purl.org/pe-repo/concytec/terminos#concluido          -->
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#concluido">
+		<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#concluido">
+		<skos:inScheme rdf:resource="http://purl.org/pe-repo/concytec/terminos"/>
+	</rdf:Description>
+
+	   
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#concluido">
+		<skos:topConceptOf rdf:resource="http://purl.org/pe-repo/concytec/terminos"/>
+	</rdf:Description>
+	
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#concluido">
+		<skos:definition rdf:resource="http://purl.org/pe-repo/concytec/terminos#concluido_def_es"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#concluido_def_es">
+		<rdf:value xml:lang="es">Utilice para establecer el estado de un proyecto cuando este se encuentre cerrado, luego de la etapa de cierre operativo o financiero. Metadato: Proyecto.Estado (Proyect.Status).</rdf:value>
+	</rdf:Description>
+	
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#concluido">
+		<skosxl:prefLabel rdf:resource="http://purl.org/pe-repo/concytec/terminos#concluido_pref_label_es"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#concluido_pref_label_es">
+		<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#concluido_pref_label_es">
+		<skosxl:literalForm xml:lang="es">Concluido</skosxl:literalForm>
+	</rdf:Description>
+	
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#concluido">
+		<skosxl:prefLabel rdf:resource="http://purl.org/pe-repo/concytec/terminos#concluido_pref_label_en"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#concluido_pref_label_en">
+		<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#concluido_pref_label_en">
+		<skosxl:literalForm xml:lang="en">Finished</skosxl:literalForm>
+	</rdf:Description>
+	
+	
+
+	<!-- Unidad de investigación o innovación                         -->
+	<!-- http://purl.org/pe-repo/concytec/terminos#unidadDeInvestigacionOInnovacion -->
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#unidadDeInvestigacionOInnovacion">
+		<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#unidadDeInvestigacionOInnovacion">
+		<skos:inScheme rdf:resource="http://purl.org/pe-repo/concytec/terminos"/>
+	</rdf:Description>
+
+	   
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#unidadDeInvestigacionOInnovacion">
+		<skos:topConceptOf rdf:resource="http://purl.org/pe-repo/concytec/terminos"/>
+	</rdf:Description>
+	
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#unidadDeInvestigacionOInnovacion">
+		<skos:definition rdf:resource="http://purl.org/pe-repo/concytec/terminos#unidadDeInvestigacionOInnovacion_def_es"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#unidadDeInvestigacionOInnovacion_def_es">
+		<rdf:value xml:lang="es">Utilice para identificar tipos de unidades organizativas que dependen de otras. Metadato: Unidad organizativa.Tipo de dependencia (OrgUnit.Type). Unidades organizativas que dependen de una institución mayor o de otra dependencia, incluye: facultades, escuelas, departamentos, institutos, centros, áreas, divisiones u otro tipo de unidad que realiza actividades de investigación o innovación. 
+</rdf:value>
+	</rdf:Description>
+	
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#unidadDeInvestigacionOInnovacion">
+		<skosxl:prefLabel rdf:resource="http://purl.org/pe-repo/concytec/terminos#unidadDeInvestigacionOInnovacion_pref_label_es"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#unidadDeInvestigacionOInnovacion_pref_label_es">
+		<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#unidadDeInvestigacionOInnovacion_pref_label_es">
+		<skosxl:literalForm xml:lang="es">Unidad de investigación o innovación</skosxl:literalForm>
+	</rdf:Description>
+	
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#unidadDeInvestigacionOInnovacion">
+		<skosxl:prefLabel rdf:resource="http://purl.org/pe-repo/concytec/terminos#unidadDeInvestigacionOInnovacion_pref_label_en"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#unidadDeInvestigacionOInnovacion_pref_label_en">
+		<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#unidadDeInvestigacionOInnovacion_pref_label_en">
+		<skosxl:literalForm xml:lang="en">Research or innovation unit</skosxl:literalForm>
+	</rdf:Description>
+	
+	
+
+	<!-- Grupo de investigación                                       -->
+	<!-- http://purl.org/pe-repo/concytec/terminos#grupoDeInvestigacion -->
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#grupoDeInvestigacion">
+		<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#grupoDeInvestigacion">
+		<skos:inScheme rdf:resource="http://purl.org/pe-repo/concytec/terminos"/>
+	</rdf:Description>
+
+	   
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#grupoDeInvestigacion">
+		<skos:topConceptOf rdf:resource="http://purl.org/pe-repo/concytec/terminos"/>
+	</rdf:Description>
+	
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#grupoDeInvestigacion">
+		<skos:definition rdf:resource="http://purl.org/pe-repo/concytec/terminos#grupoDeInvestigacion_def_es"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#grupoDeInvestigacion_def_es">
+		<rdf:value xml:lang="es">Utilice para identificar tipos de unidades organizativas que dependen de otras. Metadato: Unidad organizativa.Tipo de dependencia (OrgUnit.Type). Son unidades básicas de organización de las actividades de investigación científica y desarrollo tecnológico (I+D) de la universidad, del instituto de investigación u otras instituciones públicas o privadas pertenecientes al SINACYT dedicadas a las actividades de investigación. Están definidos por un conjunto de personas que conforman un equipo para realizar investigación en una temática determinada, que incluye una o más disciplinas relacionadas. Fuente: Ley 30806.</rdf:value>
+	</rdf:Description>
+	
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#grupoDeInvestigacion">
+		<skosxl:prefLabel rdf:resource="http://purl.org/pe-repo/concytec/terminos#grupoDeInvestigacion_pref_label_es"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#grupoDeInvestigacion_pref_label_es">
+		<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#grupoDeInvestigacion_pref_label_es">
+		<skosxl:literalForm xml:lang="es">Grupo de investigación</skosxl:literalForm>
+	</rdf:Description>
+	
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#grupoDeInvestigacion">
+		<skosxl:prefLabel rdf:resource="http://purl.org/pe-repo/concytec/terminos#grupoDeInvestigacion_pref_label_en"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#grupoDeInvestigacion_pref_label_en">
+		<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#grupoDeInvestigacion_pref_label_en">
+		<skosxl:literalForm xml:lang="en">Research group</skosxl:literalForm>
+	</rdf:Description>
+	
+	
+
+	<!-- Línea de investigación                                       -->
+	<!-- http://purl.org/pe-repo/concytec/terminos#lineaDeInvestigacion -->
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#lineaDeInvestigacion">
+		<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#lineaDeInvestigacion">
+		<skos:inScheme rdf:resource="http://purl.org/pe-repo/concytec/terminos"/>
+	</rdf:Description>
+
+	   
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#lineaDeInvestigacion">
+		<skos:topConceptOf rdf:resource="http://purl.org/pe-repo/concytec/terminos"/>
+	</rdf:Description>
+	
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#lineaDeInvestigacion">
+		<skos:definition rdf:resource="http://purl.org/pe-repo/concytec/terminos#lineaDeInvestigacion_def_es"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#lineaDeInvestigacion_def_es">
+		<rdf:value xml:lang="es">Utilice para identificar tipos de unidades organizativas que dependen de otras. Metadato: Unidad organizativa.Tipo de dependencia (OrgUnit.Type). Es un eje temático (disciplinario o interdisciplinario) lo suficientemente amplio y con orientación disciplinaria y conceptual, que se utiliza para organizar, planificar y construir, con una cierta programación, sistematización y prospectiva, el conocimiento científico en un campo específico de la ciencia y la tecnología. Fuente: Resolución de Presidencia Nº 104-2019-CONCYTEC-P.</rdf:value>
+	</rdf:Description>
+	
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#lineaDeInvestigacion">
+		<skosxl:prefLabel rdf:resource="http://purl.org/pe-repo/concytec/terminos#lineaDeInvestigacion_pref_label_es"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#lineaDeInvestigacion_pref_label_es">
+		<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#lineaDeInvestigacion_pref_label_es">
+		<skosxl:literalForm xml:lang="es">Línea de investigación</skosxl:literalForm>
+	</rdf:Description>
+	
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#lineaDeInvestigacion">
+		<skosxl:prefLabel rdf:resource="http://purl.org/pe-repo/concytec/terminos#lineaDeInvestigacion_pref_label_en"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#lineaDeInvestigacion_pref_label_en">
+		<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#lineaDeInvestigacion_pref_label_en">
+		<skosxl:literalForm xml:lang="en">Research line</skosxl:literalForm>
+	</rdf:Description>
+	
+	
+
+	<!-- Patente de invención                                         -->
+	<!-- http://purl.org/pe-repo/concytec/terminos#patenteDeInvencion -->
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#patenteDeInvencion">
+		<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#patenteDeInvencion">
+		<skos:inScheme rdf:resource="http://purl.org/pe-repo/concytec/terminos"/>
+	</rdf:Description>
+
+	   
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#patenteDeInvencion">
+		<skos:topConceptOf rdf:resource="http://purl.org/pe-repo/concytec/terminos"/>
+	</rdf:Description>
+	
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#patenteDeInvencion">
+		<skos:definition rdf:resource="http://purl.org/pe-repo/concytec/terminos#patenteDeInvencion_def_es"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#patenteDeInvencion_def_es">
+		<rdf:value xml:lang="es">Utilice para identificar la clase de patente otrogada en Perú. Metadato: Patente.Clase de Patente (Patent.Type). Título de propiedad intelectual que otorga el Estado sobre una invención a la persona que lo solicita, siempre y cuando la invención cumpla con los requisitos establecidos en la Legislación. Este título le otorga a su titular el derecho exclusivo de explotación de su invención por un tiempo determinado y en el territorio donde se ha solicitado la patente. Su ámbito de protección abarca bienes y procedimientos, deben cumplir obligatoriamente con tres requisitos: deben ser novedosas, poseer altura inventiva y aplicación industrial . este término se aplicará en materias de CTI. Fuente: Resolución de Presidencia Nº 104-2019-CONCYTEC-P.</rdf:value>
+	</rdf:Description>
+	
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#patenteDeInvencion">
+		<skosxl:prefLabel rdf:resource="http://purl.org/pe-repo/concytec/terminos#patenteDeInvencion_pref_label_es"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#patenteDeInvencion_pref_label_es">
+		<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#patenteDeInvencion_pref_label_es">
+		<skosxl:literalForm xml:lang="es">Patente de invención</skosxl:literalForm>
+	</rdf:Description>
+	
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#patenteDeInvencion">
+		<skosxl:prefLabel rdf:resource="http://purl.org/pe-repo/concytec/terminos#patenteDeInvencion_pref_label_en"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#patenteDeInvencion_pref_label_en">
+		<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#patenteDeInvencion_pref_label_en">
+		<skosxl:literalForm xml:lang="en">Invention patent</skosxl:literalForm>
+	</rdf:Description>
+	
+	
+
+	<!-- Patente de Modelo de utilidad                                -->
+	<!-- http://purl.org/pe-repo/concytec/terminos#patenteDemodeloDeUtilidad -->
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#patenteDemodeloDeUtilidad">
+		<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#patenteDemodeloDeUtilidad">
+		<skos:inScheme rdf:resource="http://purl.org/pe-repo/concytec/terminos"/>
+	</rdf:Description>
+
+	   
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#patenteDemodeloDeUtilidad">
+		<skos:topConceptOf rdf:resource="http://purl.org/pe-repo/concytec/terminos"/>
+	</rdf:Description>
+	
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#patenteDemodeloDeUtilidad">
+		<skos:definition rdf:resource="http://purl.org/pe-repo/concytec/terminos#patenteDemodeloDeUtilidad_def_es"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#patenteDemodeloDeUtilidad_def_es">
+		<rdf:value xml:lang="es">Utilice para identificar la clase de patente otrogada en Perú. Metadato: Patente.Clase de Patente (Patent.Type). Un modelo de utilidad es una invención de menor complejidad, está relacionada a toda nueva forma, configuración o disposición de elementos de algún artefacto, herramienta, instrumento, mecanismo u otro objeto o de alguna parte del mismo, que permita una mejora o diferente funcionamiento, utilización o fabricación del objeto, que le incorpore o que le proporcione alguna utilidad, ventaja o efecto técnico que antes no tenía. Fuente: ¿Qué se entiende por patente de modelo de utilidad? Indecopi (2020). Recuperado de https://www.indecopi.gob.pe/web/invenciones-y-nuevas-tecnologias/preguntas-frecuentes1</rdf:value>
+	</rdf:Description>
+	
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#patenteDemodeloDeUtilidad">
+		<skosxl:prefLabel rdf:resource="http://purl.org/pe-repo/concytec/terminos#patenteDemodeloDeUtilidad_pref_label_es"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#patenteDemodeloDeUtilidad_pref_label_es">
+		<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#patenteDemodeloDeUtilidad_pref_label_es">
+		<skosxl:literalForm xml:lang="es">Patente de Modelo de utilidad</skosxl:literalForm>
+	</rdf:Description>
+	
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#patenteDemodeloDeUtilidad">
+		<skosxl:prefLabel rdf:resource="http://purl.org/pe-repo/concytec/terminos#patenteDemodeloDeUtilidad_pref_label_en"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#patenteDemodeloDeUtilidad_pref_label_en">
+		<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#patenteDemodeloDeUtilidad_pref_label_en">
+		<skosxl:literalForm xml:lang="en">Utility model</skosxl:literalForm>
+	</rdf:Description>
+	
+	
+
+	<!-- Desarrollo tecnológico                                       -->
+	<!-- http://purl.org/pe-repo/concytec/terminos#desarrolloTecnologico -->
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#desarrolloTecnologico">
+		<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#desarrolloTecnologico">
+		<skos:inScheme rdf:resource="http://purl.org/pe-repo/concytec/terminos"/>
+	</rdf:Description>
+
+	   
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#desarrolloTecnologico">
+		<skos:topConceptOf rdf:resource="http://purl.org/pe-repo/concytec/terminos"/>
+	</rdf:Description>
+	
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#desarrolloTecnologico">
+		<skos:definition rdf:resource="http://purl.org/pe-repo/concytec/terminos#desarrolloTecnologico_def_es"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#desarrolloTecnologico_def_es">
+		<rdf:value xml:lang="es">Utilice para identificar otros tipos de de actividades y proyectos en CTI, que no están considerados en las clasificaciones de la OCDE. Metadato: Proyecto.Otros tipos de actividades en CTI (Project.Type). Es la aplicación de los resultados de la investigación o de cualquier otro tipo de conocimiento científico, a un plan o diseño en particular, para la elaboración de materiales, productos, métodos, procesos o sistemas nuevos, o sustancialmente mejorados, antes del comienzo de su producción o utilización comercial. Fuente: Ley Nº 30806.</rdf:value>
+	</rdf:Description>
+	
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#desarrolloTecnologico">
+		<skosxl:prefLabel rdf:resource="http://purl.org/pe-repo/concytec/terminos#desarrolloTecnologico_pref_label_es"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#desarrolloTecnologico_pref_label_es">
+		<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#desarrolloTecnologico_pref_label_es">
+		<skosxl:literalForm xml:lang="es">Desarrollo tecnológico</skosxl:literalForm>
+	</rdf:Description>
+	
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#desarrolloTecnologico">
+		<skosxl:prefLabel rdf:resource="http://purl.org/pe-repo/concytec/terminos#desarrolloTecnologico_pref_label_en"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#desarrolloTecnologico_pref_label_en">
+		<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#desarrolloTecnologico_pref_label_en">
+		<skosxl:literalForm xml:lang="en">Technological development</skosxl:literalForm>
+	</rdf:Description>
+	
+	
+
+	<!-- Transferencia tecnológica                                    -->
+	<!-- http://purl.org/pe-repo/concytec/terminos#transferenciaTecnologica -->
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#transferenciaTecnologica">
+		<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#transferenciaTecnologica">
+		<skos:inScheme rdf:resource="http://purl.org/pe-repo/concytec/terminos"/>
+	</rdf:Description>
+
+	   
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#transferenciaTecnologica">
+		<skos:topConceptOf rdf:resource="http://purl.org/pe-repo/concytec/terminos"/>
+	</rdf:Description>
+	
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#transferenciaTecnologica">
+		<skos:definition rdf:resource="http://purl.org/pe-repo/concytec/terminos#transferenciaTecnologica_def_es"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#transferenciaTecnologica_def_es">
+		<rdf:value xml:lang="es">Utilice para identificar otros tipos de de actividades y proyectos en CTI, que no están considerados en las clasificaciones de la OCDE. Metadato: Proyecto.Otros tipos de actividades en CTI (Project.Type). Proceso de transmisión de la información científica, tecnológica, del conocimiento de los medios y de los derechos de explotación, hacia terceras partes para la producción de un bien, el desarrollo de un proceso o la prestación de un servicio, contribuyendo al desarrollo de sus capacidades. Incluye la transferencia de conocimiento. Fuente: Ley Nº 30806.</rdf:value>
+	</rdf:Description>
+	
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#transferenciaTecnologica">
+		<skosxl:prefLabel rdf:resource="http://purl.org/pe-repo/concytec/terminos#transferenciaTecnologica_pref_label_es"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#transferenciaTecnologica_pref_label_es">
+		<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#transferenciaTecnologica_pref_label_es">
+		<skosxl:literalForm xml:lang="es">Transferencia tecnológica</skosxl:literalForm>
+	</rdf:Description>
+	
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#transferenciaTecnologica">
+		<skosxl:prefLabel rdf:resource="http://purl.org/pe-repo/concytec/terminos#transferenciaTecnologica_pref_label_en"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#transferenciaTecnologica_pref_label_en">
+		<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#transferenciaTecnologica_pref_label_en">
+		<skosxl:literalForm xml:lang="en">Technology transfer</skosxl:literalForm>
+	</rdf:Description>
+	
+	
+
+	<!-- Investigación adaptativa                                     -->
+	<!-- http://purl.org/pe-repo/concytec/terminos#investigacionAdaptativa -->
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#investigacionAdaptativa">
+		<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#investigacionAdaptativa">
+		<skos:inScheme rdf:resource="http://purl.org/pe-repo/concytec/terminos"/>
+	</rdf:Description>
+
+	   
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#investigacionAdaptativa">
+		<skos:topConceptOf rdf:resource="http://purl.org/pe-repo/concytec/terminos"/>
+	</rdf:Description>
+	
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#investigacionAdaptativa">
+		<skos:definition rdf:resource="http://purl.org/pe-repo/concytec/terminos#investigacionAdaptativa_def_es"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#investigacionAdaptativa_def_es">
+		<rdf:value xml:lang="es">Utilice para identificar otros tipos de de actividades y proyectos en CTI, que no están considerados en las clasificaciones de la OCDE. Metadato: Proyecto.Otros tipos de actividades en CTI (Project.Type). proyectos para resolver problemas que limitan la productividad y la competitividad, mediante actividades que impliquen un ajuste o acondicionamiento de tecnologías validadas (exitosamente comprobadas en otras latitudes y circunstancias), a fin de asimilarlas a un área geográfica determinada. Fuente: Basado en definición de PNIPA.</rdf:value>
+	</rdf:Description>
+	
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#investigacionAdaptativa">
+		<skosxl:prefLabel rdf:resource="http://purl.org/pe-repo/concytec/terminos#investigacionAdaptativa_pref_label_es"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#investigacionAdaptativa_pref_label_es">
+		<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#investigacionAdaptativa_pref_label_es">
+		<skosxl:literalForm xml:lang="es">Investigación adaptativa</skosxl:literalForm>
+	</rdf:Description>
+	
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#investigacionAdaptativa">
+		<skosxl:prefLabel rdf:resource="http://purl.org/pe-repo/concytec/terminos#investigacionAdaptativa_pref_label_en"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#investigacionAdaptativa_pref_label_en">
+		<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#investigacionAdaptativa_pref_label_en">
+		<skosxl:literalForm xml:lang="en">
+Adaptive research</skosxl:literalForm>
+	</rdf:Description>
+	
+	
+
+	<!-- Investigación económica                                      -->
+	<!-- http://purl.org/pe-repo/concytec/terminos#investigacionEconomica -->
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#investigacionEconomica">
+		<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#investigacionEconomica">
+		<skos:inScheme rdf:resource="http://purl.org/pe-repo/concytec/terminos"/>
+	</rdf:Description>
+
+	   
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#investigacionEconomica">
+		<skos:topConceptOf rdf:resource="http://purl.org/pe-repo/concytec/terminos"/>
+	</rdf:Description>
+	
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#investigacionEconomica">
+		<skos:definition rdf:resource="http://purl.org/pe-repo/concytec/terminos#investigacionEconomica_def_es"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#investigacionEconomica_def_es">
+		<rdf:value xml:lang="es">Utilice para identificar otros tipos de de actividades y proyectos en CTI, que no están considerados en las clasificaciones de la OCDE. Metadato: Proyecto.Otros tipos de actividades en CTI (Project.Type). Tipo de investigación que, utilizando el método científico, analiza la problemática del consumo, producción y distribución en una economía, ya sea desde un enfoque microeconómico o macroeconómico, y haciendo uso del instrumental estadístico y econométrico para el análisis de los datos empíricos. Fuente: Ley N° 30806.</rdf:value>
+	</rdf:Description>
+	
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#investigacionEconomica">
+		<skosxl:prefLabel rdf:resource="http://purl.org/pe-repo/concytec/terminos#investigacionEconomica_pref_label_es"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#investigacionEconomica_pref_label_es">
+		<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#investigacionEconomica_pref_label_es">
+		<skosxl:literalForm xml:lang="es">Investigación económica</skosxl:literalForm>
+	</rdf:Description>
+	
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#investigacionEconomica">
+		<skosxl:prefLabel rdf:resource="http://purl.org/pe-repo/concytec/terminos#investigacionEconomica_pref_label_en"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#investigacionEconomica_pref_label_en">
+		<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#investigacionEconomica_pref_label_en">
+		<skosxl:literalForm xml:lang="en">Economic research</skosxl:literalForm>
+	</rdf:Description>
+	
+	
+
+	<!-- Servicios de extensión                                       -->
+	<!-- http://purl.org/pe-repo/concytec/terminos#serviciosDeExtension -->
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#serviciosDeExtension">
+		<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#serviciosDeExtension">
+		<skos:inScheme rdf:resource="http://purl.org/pe-repo/concytec/terminos"/>
+	</rdf:Description>
+
+	   
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#serviciosDeExtension">
+		<skos:topConceptOf rdf:resource="http://purl.org/pe-repo/concytec/terminos"/>
+	</rdf:Description>
+	
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#serviciosDeExtension">
+		<skos:definition rdf:resource="http://purl.org/pe-repo/concytec/terminos#serviciosDeExtension_def_es"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#serviciosDeExtension_def_es">
+		<rdf:value xml:lang="es">Utilice para identificar otros tipos de de actividades y proyectos en CTI, que no están considerados en las clasificaciones de la OCDE. Metadato: Proyecto.Otros tipos de actividades en CTI (Project.Type). Servicios especializados de asistencia técnica, capacitación y asesoría, con la finalidad de facilitar la adopción y aplicación de tecnologías y conocimientos que mejoren sus negocios en las diferentes fases de la cadena de valor, incluyendo innovaciones empresariales, ambientales, comerciales, tecnológicas y organizacionales. Fuente: Basado en definición de PNIPA.</rdf:value>
+	</rdf:Description>
+	
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#serviciosDeExtension">
+		<skosxl:prefLabel rdf:resource="http://purl.org/pe-repo/concytec/terminos#serviciosDeExtension_pref_label_es"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#serviciosDeExtension_pref_label_es">
+		<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#serviciosDeExtension_pref_label_es">
+		<skosxl:literalForm xml:lang="es">Servicios de extensión</skosxl:literalForm>
+	</rdf:Description>
+	
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#serviciosDeExtension">
+		<skosxl:prefLabel rdf:resource="http://purl.org/pe-repo/concytec/terminos#serviciosDeExtension_pref_label_en"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#serviciosDeExtension_pref_label_en">
+		<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#serviciosDeExtension_pref_label_en">
+		<skosxl:literalForm xml:lang="en">Extension services</skosxl:literalForm>
+	</rdf:Description>
+	
+	
+
+	<!-- Fortalecimiento de capacidades                               -->
+	<!-- http://purl.org/pe-repo/concytec/terminos#fortalecimientoDeCapacidades -->
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#fortalecimientoDeCapacidades">
+		<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#fortalecimientoDeCapacidades">
+		<skos:inScheme rdf:resource="http://purl.org/pe-repo/concytec/terminos"/>
+	</rdf:Description>
+
+	   
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#fortalecimientoDeCapacidades">
+		<skos:topConceptOf rdf:resource="http://purl.org/pe-repo/concytec/terminos"/>
+	</rdf:Description>
+	
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#fortalecimientoDeCapacidades">
+		<skos:definition rdf:resource="http://purl.org/pe-repo/concytec/terminos#fortalecimientoDeCapacidades_def_es"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#fortalecimientoDeCapacidades_def_es">
+		<rdf:value xml:lang="es">Utilice para identificar otros tipos de de actividades y proyectos en CTI, que no están considerados en las clasificaciones de la OCDE. Metadato: Proyecto.Otros tipos de actividades en CTI (Project.Type). Comprenden el desarrollo de actividades curriculares debidamente estructuradas, que aseguren contenidos de carácter conceptual, técnico e instrumental, con procesos de formación teórico – práctico, orientados al desarrollo de los talentos y competencias del talento humano. Incluye becas, pasantías, estancias, capacitaciones, cursos, seminarios u otros eventos académico-científicos, diplomados, etc. Fuente: Adaptado de PNIPA.</rdf:value>
+	</rdf:Description>
+	
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#fortalecimientoDeCapacidades">
+		<skosxl:prefLabel rdf:resource="http://purl.org/pe-repo/concytec/terminos#fortalecimientoDeCapacidades_pref_label_es"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#fortalecimientoDeCapacidades_pref_label_es">
+		<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#fortalecimientoDeCapacidades_pref_label_es">
+		<skosxl:literalForm xml:lang="es">Fortalecimiento de capacidades</skosxl:literalForm>
+	</rdf:Description>
+	
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#fortalecimientoDeCapacidades">
+		<skosxl:prefLabel rdf:resource="http://purl.org/pe-repo/concytec/terminos#fortalecimientoDeCapacidades_pref_label_en"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#fortalecimientoDeCapacidades_pref_label_en">
+		<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#fortalecimientoDeCapacidades_pref_label_en">
+		<skosxl:literalForm xml:lang="en">Capacity building</skosxl:literalForm>
+	</rdf:Description>
+	
+	
+
+	<!-- Incubación y desarrollo de empresas                          -->
+	<!-- http://purl.org/pe-repo/concytec/terminos#incubacionYDesarrolloDeEmpresas -->
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#incubacionYDesarrolloDeEmpresas">
+		<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#incubacionYDesarrolloDeEmpresas">
+		<skos:inScheme rdf:resource="http://purl.org/pe-repo/concytec/terminos"/>
+	</rdf:Description>
+
+	   
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#incubacionYDesarrolloDeEmpresas">
+		<skos:topConceptOf rdf:resource="http://purl.org/pe-repo/concytec/terminos"/>
+	</rdf:Description>
+	
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#incubacionYDesarrolloDeEmpresas">
+		<skos:definition rdf:resource="http://purl.org/pe-repo/concytec/terminos#incubacionYDesarrolloDeEmpresas_def_es"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#incubacionYDesarrolloDeEmpresas_def_es">
+		<rdf:value xml:lang="es">Utilice para identificar otros tipos de de actividades y proyectos en CTI, que no están considerados en las clasificaciones de la OCDE. Metadato: Proyecto.Otros tipos de actividades en CTI (Project.Type). Proyectos que preparan y/o acompañan el desarrollo de una idea de negocio (producto, proceso, modelo de organización y/o comercialización) o innovación para asegurar el éxito de la empresa hasta que alcancen una etapa de validación comercial a través de una amplia gama de recursos y servicios empresariales. Puede incluir coworking, capitalización o acceso a fuentes de financiamiento, mentoría, networking, apoyo a emprendedores o clusters, entre otros. Fuente: Adaptado de Resolución de Presidencia Nº 104-2019-CONCYTEC-P.</rdf:value>
+	</rdf:Description>
+	
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#incubacionYDesarrolloDeEmpresas">
+		<skosxl:prefLabel rdf:resource="http://purl.org/pe-repo/concytec/terminos#incubacionYDesarrolloDeEmpresas_pref_label_es"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#incubacionYDesarrolloDeEmpresas_pref_label_es">
+		<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#incubacionYDesarrolloDeEmpresas_pref_label_es">
+		<skosxl:literalForm xml:lang="es">Incubación y desarrollo de empresas</skosxl:literalForm>
+	</rdf:Description>
+	
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#incubacionYDesarrolloDeEmpresas">
+		<skosxl:prefLabel rdf:resource="http://purl.org/pe-repo/concytec/terminos#incubacionYDesarrolloDeEmpresas_pref_label_en"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#incubacionYDesarrolloDeEmpresas_pref_label_en">
+		<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#incubacionYDesarrolloDeEmpresas_pref_label_en">
+		<skosxl:literalForm xml:lang="en">Business incubation and development</skosxl:literalForm>
+	</rdf:Description>
+	
+	
+
+	<!-- Equipamiento científico                                      -->
+	<!-- http://purl.org/pe-repo/concytec/terminos#equipamientoCientifico -->
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#equipamientoCientifico">
+		<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#equipamientoCientifico">
+		<skos:inScheme rdf:resource="http://purl.org/pe-repo/concytec/terminos"/>
+	</rdf:Description>
+
+	   
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#equipamientoCientifico">
+		<skos:topConceptOf rdf:resource="http://purl.org/pe-repo/concytec/terminos"/>
+	</rdf:Description>
+	
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#equipamientoCientifico">
+		<skos:definition rdf:resource="http://purl.org/pe-repo/concytec/terminos#equipamientoCientifico_def_es"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#equipamientoCientifico_def_es">
+		<rdf:value xml:lang="es">Utilice para identificar otros tipos de de actividades y proyectos en CTI, que no están considerados en las clasificaciones de la OCDE. Metadato: Proyecto.Otros tipos de actividades en CTI (Project.Type). Proyectos que tienen por objetivo modernizar, actualizar y fortalecer el equipamiento para investigación con la adquisición de un equipo mayor, con la finalidad de acelerar la generación de investigación aplicada y/o desarrollo tecnológico y contar con laboratorios equipados para promover el desarrollo de la ciencia, tecnología e innovación. Fuente: Adaptado de Fondecyt.</rdf:value>
+	</rdf:Description>
+	
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#equipamientoCientifico">
+		<skosxl:prefLabel rdf:resource="http://purl.org/pe-repo/concytec/terminos#equipamientoCientifico_pref_label_es"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#equipamientoCientifico_pref_label_es">
+		<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#equipamientoCientifico_pref_label_es">
+		<skosxl:literalForm xml:lang="es">Equipamiento científico</skosxl:literalForm>
+	</rdf:Description>
+	
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#equipamientoCientifico">
+		<skosxl:prefLabel rdf:resource="http://purl.org/pe-repo/concytec/terminos#equipamientoCientifico_pref_label_en"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#equipamientoCientifico_pref_label_en">
+		<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#equipamientoCientifico_pref_label_en">
+		<skosxl:literalForm xml:lang="en">Scientific equipment</skosxl:literalForm>
+	</rdf:Description>
+	
+	
+
+	<!-- Pública                                                      -->
+	<!-- http://purl.org/pe-repo/concytec/terminos#publica            -->
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#publica">
+		<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#publica">
+		<skos:inScheme rdf:resource="http://purl.org/pe-repo/concytec/terminos"/>
+	</rdf:Description>
+
+	   
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#publica">
+		<skos:topConceptOf rdf:resource="http://purl.org/pe-repo/concytec/terminos"/>
+	</rdf:Description>
+	
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#publica">
+		<skos:definition rdf:resource="http://purl.org/pe-repo/concytec/terminos#publica_def_es"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#publica_def_es">
+		<rdf:value xml:lang="es">Utilice para identificar la naturaleza de una unidad organizativa. Metadato: Unidad organizativa.Naturaleza pública o privada (OrgUnit.Type). Unidades organizativas del sector público, abarca las sociedades públicas y la Administración General. Bajo esta premisa, una unidad del sector Empresas debería clasificarse como parte del sector público, en función de si está controlada por la Administración (Estado). Fuente: Adaptado de Manual de Frascati.</rdf:value>
+	</rdf:Description>
+	
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#publica">
+		<skosxl:prefLabel rdf:resource="http://purl.org/pe-repo/concytec/terminos#publica_pref_label_es"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#publica_pref_label_es">
+		<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#publica_pref_label_es">
+		<skosxl:literalForm xml:lang="es">Pública</skosxl:literalForm>
+	</rdf:Description>
+	
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#publica">
+		<skosxl:prefLabel rdf:resource="http://purl.org/pe-repo/concytec/terminos#publica_pref_label_en"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#publica_pref_label_en">
+		<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#publica_pref_label_en">
+		<skosxl:literalForm xml:lang="en">Public</skosxl:literalForm>
+	</rdf:Description>
+	
+	
+
+	<!-- Privada                                                      -->
+	<!-- http://purl.org/pe-repo/concytec/terminos#privada            -->
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#privada">
+		<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#privada">
+		<skos:inScheme rdf:resource="http://purl.org/pe-repo/concytec/terminos"/>
+	</rdf:Description>
+
+	   
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#privada">
+		<skos:topConceptOf rdf:resource="http://purl.org/pe-repo/concytec/terminos"/>
+	</rdf:Description>
+	
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#privada">
+		<skos:definition rdf:resource="http://purl.org/pe-repo/concytec/terminos#privada_def_es"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#privada_def_es">
+		<rdf:value xml:lang="es">Utilice para identificar la naturaleza de una unidad organizativa. Metadato: Unidad organizativa.Naturaleza pública o privada (OrgUnit.Type). Unidades organizativas del sector privado. Se considera cuando una institución es claramente autónoma y no forma parte del sistema administrativo del Estado. Fuente: Adaptado de Manual de Frascati.</rdf:value>
+	</rdf:Description>
+	
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#privada">
+		<skosxl:prefLabel rdf:resource="http://purl.org/pe-repo/concytec/terminos#privada_pref_label_es"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#privada_pref_label_es">
+		<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#privada_pref_label_es">
+		<skosxl:literalForm xml:lang="es">Privada</skosxl:literalForm>
+	</rdf:Description>
+	
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#privada">
+		<skosxl:prefLabel rdf:resource="http://purl.org/pe-repo/concytec/terminos#privada_pref_label_en"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#privada_pref_label_en">
+		<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#privada_pref_label_en">
+		<skosxl:literalForm xml:lang="en">Private</skosxl:literalForm>
+	</rdf:Description>
+	
+	
+
+	<!-- DNI                                                          -->
+	<!-- http://purl.org/pe-repo/concytec/terminos#dni                -->
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#dni">
+		<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#dni">
+		<skos:inScheme rdf:resource="http://purl.org/pe-repo/concytec/terminos"/>
+	</rdf:Description>
+
+	   
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#dni">
+		<skos:topConceptOf rdf:resource="http://purl.org/pe-repo/concytec/terminos"/>
+	</rdf:Description>
+	
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#dni">
+		<skos:definition rdf:resource="http://purl.org/pe-repo/concytec/terminos#dni_def_es"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#dni_def_es">
+		<rdf:value xml:lang="es">Documento Nacional de Identidad (DNI): es un documento público personal e intransferible. Constituye la única cédula de Identidad Personal para todos los actos civiles, comerciales, administrativos, judiciales y, en general, para todos aquellos casos en que, por mandato legal, deba ser presentado. Constituye también el único título de derecho al sufragio de la persona a cuyo favor ha sido otorgado. Es otorgado a todos los peruanos nacidos dentro o fuera del territorio de la República desde la fecha de su nacimiento y a los que se nacionalicen, desde que se aprueba el trámite de nacionalización. El documento emitido deberá asignar un Código Unico de Identificación el mismo que se mantendrá invariable hasta el fallecimiento de la persona, como único referente identificatorio de la misma. Es otrogado por el Registro Nacional de Identificación y Estado Civil (RENIEC). Fuente: Basado en Ley Nº 26497.</rdf:value>
+	</rdf:Description>
+	
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#dni">
+		<skosxl:prefLabel rdf:resource="http://purl.org/pe-repo/concytec/terminos#dni_pref_label_es"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#dni_pref_label_es">
+		<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#dni_pref_label_es">
+		<skosxl:literalForm xml:lang="es">DNI</skosxl:literalForm>
+	</rdf:Description>
+	
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#dni">
+		<skosxl:prefLabel rdf:resource="http://purl.org/pe-repo/concytec/terminos#dni_pref_label_en"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#dni_pref_label_en">
+		<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#dni_pref_label_en">
+		<skosxl:literalForm xml:lang="en">DNI</skosxl:literalForm>
+	</rdf:Description>
+	
+	
+
+	<!-- RUC                                                          -->
+	<!-- http://purl.org/pe-repo/concytec/terminos#ruc                -->
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#ruc">
+		<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#ruc">
+		<skos:inScheme rdf:resource="http://purl.org/pe-repo/concytec/terminos"/>
+	</rdf:Description>
+
+	   
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#ruc">
+		<skos:topConceptOf rdf:resource="http://purl.org/pe-repo/concytec/terminos"/>
+	</rdf:Description>
+	
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#ruc">
+		<skos:definition rdf:resource="http://purl.org/pe-repo/concytec/terminos#ruc_def_es"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#ruc_def_es">
+		<rdf:value xml:lang="es">El Registro Único de Contribuyentes (RUC): es el padrón que contiene los datos de identificación de las actividades económicas y demás información relevante de los sujetos inscritos. El Número RUC es único y permanente, consta de once dígitos y es de uso obligatorio en toda declaración o trámite que se realice ante la SUNAT. Deben inscribirse en el RUC a cargo de la SUNAT, todas las personas naturales o jurídicas, sucesiones indivisas, sociedades de hecho u otros entes colectivos, nacionales o extranjeros, domiciliados o no en el país, que se encuentren en alguno de los siguientes supuestos: a. sean contribuyentes y/o responsables de tributos administrados por la SUNAT, conforme a las leyes vigentes. b. que sin tener la condición de contribuyentes y/o responsables de tributos administrados por la SUNAT, tengan derecho a la devolución de impuestos a cargo de esta entidad, en virtud de lo señalado por una ley o norma con rango de ley. Esta obligación debe ser cumplida para proceder a la tramitación de la solicitud de devolución respectiva. c. que se acojan a los Regímenes Aduaneros o a los Destinos Aduaneros Especiales o de Excepción previstos en la Ley General de Aduanas. d. que por los actos u operaciones que realicen, la SUNAT considere necesaria su incorporación al registro. Fuente: SUNAT y Decreto Legislativo N° 943.</rdf:value>
+	</rdf:Description>
+	
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#ruc">
+		<skosxl:prefLabel rdf:resource="http://purl.org/pe-repo/concytec/terminos#ruc_pref_label_es"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#ruc_pref_label_es">
+		<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#ruc_pref_label_es">
+		<skosxl:literalForm xml:lang="es">RUC</skosxl:literalForm>
+	</rdf:Description>
+	
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#ruc">
+		<skosxl:prefLabel rdf:resource="http://purl.org/pe-repo/concytec/terminos#ruc_pref_label_en"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#ruc_pref_label_en">
+		<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#ruc_pref_label_en">
+		<skosxl:literalForm xml:lang="en">RUC</skosxl:literalForm>
+	</rdf:Description>
+	
+	
+
+</rdf:RDF>
