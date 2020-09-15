@@ -26,3 +26,7 @@ Versión 0.1 (borrador) - [SKOS-XML](renati_level.xml) \| [HTML](https://concyte
 
 Versión 0.2 (borrador) - [SKOS-XML](renati_type.xml) \| [HTML](https://concytec-pe.github.io/vocabularios/renati_type.html)
 
+### Tipos de equipamientos mayores en CTI (CONCYTEC)
+
+Versión 0.1 (borrador) - [SKOS-XML](concytec_equipamiento.xml) \| [HTML](https://concytec-pe.github.io/vocabularios/concytec_equipamiento.html)
+
