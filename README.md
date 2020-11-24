@@ -32,4 +32,4 @@ Versión 0.1 (borrador) - [SKOS-XML](concytec_equipamiento.xml) \| [HTML](https:
 
 ### Términos para la plataforma #PerúCRIS (CONCYTEC)
 
-Versión 0.3 (borrador) - [SKOS-XML](concytec_terminos.xml) \| [HTML](https://concytec-pe.github.io/vocabularios/concytec_terminos.html)
+Versión 0.4 (borrador) - [SKOS-XML](concytec_terminos.xml) \| [HTML](https://concytec-pe.github.io/vocabularios/concytec_terminos.html)
