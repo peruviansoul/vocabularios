@@ -523,7 +523,7 @@
 	
 	
 
-	<!-- Patente de invención                                         -->
+	<!-- Patente de Invención                                         -->
 	<!-- http://purl.org/pe-repo/concytec/terminos#patenteDeInvencion -->
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#patenteDeInvencion">
@@ -560,7 +560,7 @@
 	</rdf:Description>
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#patenteDeInvencion_pref_label_es">
-		<skosxl:literalForm xml:lang="es">Patente de invención</skosxl:literalForm>
+		<skosxl:literalForm xml:lang="es">Patente de Invención</skosxl:literalForm>
 	</rdf:Description>
 	
 
@@ -602,7 +602,7 @@
 	</rdf:Description>
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#patenteDeModeloDeUtilidad_def_es">
-		<rdf:value xml:lang="es">Utilice para identificar la clase de patente otrogada en Perú. Metadato: Patente.Clase de Patente (Patent.Type). Un modelo de utilidad es una invención de menor complejidad, está relacionada a toda nueva forma, configuración o disposición de elementos de algún artefacto, herramienta, instrumento, mecanismo u otro objeto o de alguna parte del mismo, que permita una mejora o diferente funcionamiento, utilización o fabricación del objeto, que le incorpore o que le proporcione alguna utilidad, ventaja o efecto técnico que antes no tenía. Fuente: ¿Qué se entiende por patente de modelo de utilidad? Indecopi (2020). Recuperado de https://www.indecopi.gob.pe/web/invenciones-y-nuevas-tecnologias/preguntas-frecuentes1</rdf:value>
+		<rdf:value xml:lang="es">Se concederá patente de modelo de utilidad, a toda nueva forma, configuración o disposición de elementos de algún artefacto, herramienta, instrumento, mecanismo u otro objeto o de alguna parte del mismo, que permita un mejor o diferente funcionamiento, utilización o fabricación del objeto que lo incorpora o que le proporcione alguna utilidad, ventaja o efecto técnico que antes no tenía. Fuente: Ley de Propiedad Industrial - Decreto Legislativo Nº 823.</rdf:value>
 	</rdf:Description>
 	
 
@@ -631,6 +631,62 @@
 
 	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#patenteDeModeloDeUtilidad_pref_label_en">
 		<skosxl:literalForm xml:lang="en">Utility model</skosxl:literalForm>
+	</rdf:Description>
+	
+	
+
+	<!-- Certificado de Obtentor                                      -->
+	<!-- http://purl.org/pe-repo/concytec/terminos#certificadoDeObtentor -->
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#certificadoDeObtentor">
+		<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#certificadoDeObtentor">
+		<skos:inScheme rdf:resource="http://purl.org/pe-repo/concytec/terminos"/>
+	</rdf:Description>
+
+	   
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#certificadoDeObtentor">
+		<skos:topConceptOf rdf:resource="http://purl.org/pe-repo/concytec/terminos"/>
+	</rdf:Description>
+	
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#certificadoDeObtentor">
+		<skos:definition rdf:resource="http://purl.org/pe-repo/concytec/terminos#certificadoDeObtentor_def_es"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#certificadoDeObtentor_def_es">
+		<rdf:value xml:lang="es">El Certificado de Obtentor es un derecho de propiedad intelectual mediante el cual el Estado otorga al obtentor de una nueva variedad vegetal un derecho exclusivo de explotación comercial por un período de tiempo y en un territorio determinado, siempre y cuando la variedad cumpla con los requisitos establecidos en la normativa vigente. Fuente: Certificado obtentor de variedad vegetal (Indecopi). Recuperado de: https://www.indecopi.gob.pe/documents/1902049/0/Certificado+Obtentor.pdf/a8cb05ea-b421-067a-6f00-2655c7ba1847</rdf:value>
+	</rdf:Description>
+	
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#certificadoDeObtentor">
+		<skosxl:prefLabel rdf:resource="http://purl.org/pe-repo/concytec/terminos#certificadoDeObtentor_pref_label_es"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#certificadoDeObtentor_pref_label_es">
+		<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#certificadoDeObtentor_pref_label_es">
+		<skosxl:literalForm xml:lang="es">Certificado de Obtentor</skosxl:literalForm>
+	</rdf:Description>
+	
+
+	
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#certificadoDeObtentor">
+		<skosxl:prefLabel rdf:resource="http://purl.org/pe-repo/concytec/terminos#certificadoDeObtentor_pref_label_en"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#certificadoDeObtentor_pref_label_en">
+		<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="http://purl.org/pe-repo/concytec/terminos#certificadoDeObtentor_pref_label_en">
+		<skosxl:literalForm xml:lang="en">Certificate of plant breeder&#39;s right</skosxl:literalForm>
 	</rdf:Description>
 	
 	
