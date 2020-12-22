@@ -14,6 +14,10 @@ Versión 0.1 (borrador) - [SKOS-XML](ocde_sectorInstitucional.xml) \| [HTML](ocd
 
 Versión 0.2 (borrador) - [SKOS-XML](ocde_tipoProyecto.xml) \| [HTML](ocde_tipoProyecto.html)
 
+###  Naturaleza pública o privada de una institución segun el Manual de Frascati (OCDE)
+
+Versión 0.1 (borrador) - [SKOS-XML](ocde_naturalezaInstitucion.xml) \| [HTML](ocde_naturalezaInstitucion.html)
+
 ### Tipos de instituciones de enseñanza superior (SUNEDU)
 
 Versión 0.1 (borrador) - [SKOS-XML](sunedu_tipoInstitucion.xml) \| [HTML](sunedu_tipoInstitucion.html)
