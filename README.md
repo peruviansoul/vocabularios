@@ -40,4 +40,4 @@ Versión 0.5 (borrador) - [SKOS-XML](concytec_terminos.xml) \| [HTML](concytec_t
 
 ### Tipos de sub-unidades organizativas (CONCYTEC)
 
-Versión 0.1 (borrador) - [SKOS-XML](concytec_tipo_subunidad.xml) \| [HTML](concytec_tipo_subunidad.html)
+Versión 0.1 (borrador) - [SKOS-XML](concytec_tipoSubunidad.xml) \| [HTML](concytec_tipoSubunidad.html)
