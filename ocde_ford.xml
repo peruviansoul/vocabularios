@@ -10061,7 +10061,7 @@
 	
 	
 
-	<!-- Negocios, Adminsitración                                     -->
+	<!-- Negocios, Administración                                     -->
 	<!-- https://purl.org/pe-repo/ocde/ford#5.02.04                   -->
 
 	<rdf:Description rdf:about="https://purl.org/pe-repo/ocde/ford#5.02.04">
@@ -10090,7 +10090,7 @@
 	</rdf:Description>
 
 	<rdf:Description rdf:about="https://purl.org/pe-repo/ocde/ford#5.02.04_pref_label_es">
-		<skosxl:literalForm xml:lang="es">Negocios, Adminsitración</skosxl:literalForm>
+		<skosxl:literalForm xml:lang="es">Negocios, Administración</skosxl:literalForm>
 	</rdf:Description>
 	
 
