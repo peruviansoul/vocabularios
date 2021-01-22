@@ -4,7 +4,7 @@ Vocabularios controlados para la Red Nacional de Información en Ciencia, Tecnol
 
 ### Campos de la Investigación y el Desarrollo según Manual de Frascati (OCDE)
 
-Versión 0.3.1 (borrador) - [SKOS-XML](ocde_ford.xml) \| [HTML](ocde_ford.html)
+Versión 0.3.2 (borrador) - [SKOS-XML](ocde_ford.xml) \| [HTML](ocde_ford.html)
 
 ### Personal I+D por ocupación según Manual de Frascati (OCDE)
 
