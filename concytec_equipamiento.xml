@@ -702,7 +702,7 @@
 	</rdf:Description>
 
 	<rdf:Description rdf:about="https://purl.org/pe-repo/concytec/equipamiento#otrosEquipamientos_def_es">
-		<rdf:value xml:lang="es">Otros tipos de equipos mayores utilizados en actividades de CTI que no considerados en la tipología anterior.</rdf:value>
+		<rdf:value xml:lang="es">Otros tipos de equipos utilizados en actividades de CTI que no considerados en la tipología anterior.</rdf:value>
 	</rdf:Description>
 	
 
